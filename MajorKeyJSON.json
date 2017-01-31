@@ -40,12 +40,13 @@
             "lastName": "Leech",
             "department": "Math",
             "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
-            "duration": 11 {
-                "firstName": "Silvia",
-                "lastName": "Rodarte",
-                "department": "Math",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
-                "duration": 8
+            "duration": 11             
+        }, {
+            "firstName": "Silvia",
+            "lastName": "Rodarte",                
+            "department": "Math",
+            "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+            "duration": 8
             },
             {
                 "firstName": "John",
