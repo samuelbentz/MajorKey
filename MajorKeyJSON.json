@@ -9,19 +9,19 @@
             "firstName": "Donald",
             "lastName": "Patterson",
             "department": "Computer Science",
-            "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+            "image": "http://www.westmont.edu/_academics/departments/computer_science/images/dpatterson.jpg",
             "duration": 2
         }, {
             "firstName": "David",
             "lastName": "Hunter",
             "department": "Math",
-            "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+            "image": "http://www.westmont.edu/_academics/departments/mathematics/images/david-hunter.jpg",
             "duration": 21
         }, {
             "firstName": "Patti",
             "lastName": "Hunter",
             "department": "Math",
-            "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+            "image": "http://www.westmont.edu/_academics/departments/mathematics/images/patti-hunter.jpg",
             "duration": 10
         }, {
             "firstName": "Ray",
