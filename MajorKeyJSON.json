@@ -26,740 +26,706 @@
         }, {
             "firstName": "Ray",
             "lastName": "Rosentrater",
-            "department": "Kineisiology",
-            "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+            "department": "Math",
+            "image": "http://www.westmont.edu/_academics/departments/mathematics/images/ray-rosentrater.jpg",
             "duration": 24
         }, {
             "firstName": "Russell",
             "lastName": "Howell",
             "department": "Math",
-            "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+            "image": "http://www.westmont.edu/_academics/departments/mathematics/images/russell-howell.jpg",
             "duration": 8
         }, {
             "firstName": "Jonathan",
             "lastName": "Leech",
             "department": "Math",
-            "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+            "image": "http://www.westmont.edu/_academics/departments/mathematics/images/jonathan-leech.jpg",
             "duration": 11             
-        }, {
-            "firstName": "Silvia",
-            "lastName": "Rodarte",                
-            "department": "Math",
-            "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
-            "duration": 8
-            },
+        },
             {
                 "firstName": "John",
                 "lastName": "Rodkey",
                 "department": "Computer Science",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://blogs.westmont.edu/wp-content/uploads/2006/09/rodkey_john_web1.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Christine",
                 "lastName": "Milner",
                 "department": "Kineisiology",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/kinesiology/images/ChrisMilner2013.JPG",
                 "duration": 8
             },
             {
                 "firstName": "Gregg",
                 "lastName": "Affman",
                 "department": "Kineisiology",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/kinesiology/uploads/Photos/afman_gregg_web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Ogechi",
                 "lastName": "Nwaokelemeh",
                 "department": "Kineisiology",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/kinesiology/images/OgechiNwaokelemeh.JPG",
                 "duration": 8
             },
             {
                 "firstName": "Russell",
                 "lastName": "Smelley",
                 "department": "Kineisiology",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/kinesiology/images/RussellSmelley2013.JPG",
                 "duration": 8
             },
             {
                 "firstName": "Timothy",
                 "lastName": "Van Haitsma",
                 "department": "Kineisiology",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/kinesiology/images/TimVanHaitsma2014.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Tom",
                 "lastName": "Walters",
                 "department": "Kineisiology",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/kinesiology/images/MK4_1918.JPG",
                 "duration": 8
             },
             {
                 "firstName": "Dave",
                 "lastName": "Wolf",
                 "department": "Kineisiology",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/kinesiology/uploads/Photos/wolf_david_web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Rick",
-                "lastName": "Afland",
+                "lastName": "Ifland",
                 "department": "Economics & Business",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/economics_business/images/rick-ifland.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Martin",
                 "lastName": "Asher",
                 "department": "Economics & Business",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/economics_business/images/MartinAsher.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Enrico",
                 "lastName": "Manlapig",
                 "department": "Economics & Business",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/economics_business/images/EnricoManlapig.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Paul",
                 "lastName": "Morgan",
                 "department": "Economics & Business",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/economics_business/uploads/photos/morgan_paul.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Edd",
                 "lastName": "Noell",
                 "department": "Economics & Business",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Ramon",
-                "lastName": "Gupta",
-                "department": "Economics & Business",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/economics_business/images/Noell2012.JPG",
                 "duration": 8
             },
             {
                 "firstName": "Coby",
                 "lastName": "Harmon",
                 "department": "Economics & Business",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/economics_business/images/harmon_coby_2012.jpg",
                 "duration": 8
             },
             {
                 "firstName": "John",
                 "lastName": "Tynan",
                 "department": "Economics & Business",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/economics_business/images/Tynan5x7BW_000.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Paul",
                 "lastName": "Delaney",
                 "department": "English",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/english/uploads/2007/04/delaney_paul_web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Elizabeth",
                 "lastName": "Hess",
                 "department": "English",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/english/images/elizabeth-hess.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Cheri",
                 "lastName": "Larsen Hoeckley",
                 "department": "English",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Carmen",
-                "lastName": "McCain",
-                "department": "English",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/english/images/cherilarsenhoeckley.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Sarah",
                 "lastName": "Skripsky",
                 "department": "English",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/english/images/yoder.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Randall",
                 "lastName": "VanderMey",
                 "department": "English",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/english/uploads/2007/04/vandermey_randall_web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Paul",
                 "lastName": "Willis",
                 "department": "English",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/english/images/willis-paul-2012.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Scott",
                 "lastName": "Anderson",
                 "department": "Art",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "hhttp://www.westmont.edu/_academics/departments/art/images/AndersonThumbnail.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Lisa",
                 "lastName": "DeBoer",
                 "department": "Art",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/art/images/img_0617.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Brad",
                 "lastName": "Elliott",
                 "department": "Art",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/art/images/brad_elliott_web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Nathan",
                 "lastName": "Huff",
                 "department": "Art",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/art/images/HuffPicure.JPG",
                 "duration": 8
             },
             {
                 "firstName": "Judy",
                 "lastName": "Larson",
                 "department": "Art",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/art/images/img_0958.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Meagan",
                 "lastName": "Stirling",
                 "department": "Art",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/art/images/AD6V13821.JPG",
                 "duration": 8
             },
             {
                 "firstName": "Eileen",
                 "lastName": "McMahon McQuade",
                 "department": "Biology",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/biology/images/McQuadeMcMahonEileen.JPG",
                 "duration": 8
             },
             {
                 "firstName": "Beth",
                 "lastName": "Horvath",
                 "department": "Biology",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/biology/uploads/2006/09/Horvath_Web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Steve",
                 "lastName": "Julio",
                 "department": "Biology",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/biology/uploads/2006/09/Julio_Web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Frank",
                 "lastName": "Percival",
                 "department": "Biology",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/biology/uploads/2006/09/Percival_Web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Jeff",
                 "lastName": "Schloss",
                 "department": "Biology",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Amanda",
-                "lastName": "Sparkman",
-                "department": "Biology",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/biology/uploads/2006/08/Schloss_Web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Michael",
                 "lastName": "Everest",
                 "department": "Chemistry",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/chemistry/images/Michael_Everest1c.JPG",
                 "duration": 8
             },
             {
                 "firstName": "Kristi",
                 "lastName": "Lazar Cantrell",
                 "department": "Chemistry",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/chemistry/images/Kristi-L-2a_001.JPG",
                 "duration": 8
             },
             {
                 "firstName": "Stephen",
                 "lastName": "Contakes",
                 "department": "Chemistry",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/chemistry/images/contakesstephen1.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Allan",
                 "lastName": "Nishimura",
                 "department": "Chemistry",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/chemistry/uploads/2006/11/nishimura_allan_web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "David",
                 "lastName": "Marten",
                 "department": "Chemistry",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/chemistry/uploads/2006/11/marten_david_web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Amanda",
                 "lastName": "Silberstein",
                 "department": "Chemistry",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/chemistry/images/Silberstein-Amanda-505x758.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Carrie",
                 "lastName": "Stein Hill",
                 "department": "Chemistry",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/chemistry/images/Carrie_002.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Niva",
                 "lastName": "Tro",
                 "department": "Chemistry",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/chemistry/images/tro_nivaldo_web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Deborah",
                 "lastName": "Dunn",
                 "department": "Communications Studies",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/communication_studies/images/deborah_dunn.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Greg",
                 "lastName": "Spencer",
                 "department": "Communications Studies",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/communication_studies/images/spencer.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Elizabeth",
                 "lastName": "Gardner",
                 "department": "Communications Studies",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/communication_studies/images/D1X_0621.JPG",
                 "duration": 8
             },
             {
                 "firstName": "Lesa",
                 "lastName": "Stern",
                 "department": "Communications Studies",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/communication_studies/images/lesa_stern.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Dinora",
                 "lastName": "Cardoso",
                 "department": "Spanish",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/modern_languages/images/Cardoso_000.JPG",
                 "duration": 8
             },
             {
                 "firstName": "Leanor",
                 "lastName": "Elias",
                 "department": "Spanish",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/modern_languages/uploads/2007/04/elias_leonor_web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Mary",
                 "lastName": "Docter",
                 "department": "Spanish",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/modern_languages/uploads/2007/04/doctor_mary_web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Mary",
                 "lastName": "Collier",
                 "department": "French",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Daniela",
-                "lastName": "Kostruba",
-                "department": "German",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/modern_languages/uploads/2007/04/collier_mary_web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Marcelo",
                 "lastName": "Meija-Perez",
                 "department": "Spanish",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/modern_languages/images/ad6v1442.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Richard",
                 "lastName": "Pointer",
                 "department": "History",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/history/images/2H5F1595.JPG",
                 "duration": 8
             },
             {
                 "firstName": "Alister",
                 "lastName": "Chapman",
                 "department": "History",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/history/images/CHAPMANJULY2012.JPG",
                 "duration": 8
             },
             {
                 "firstName": "Heather",
                 "lastName": "Keaney",
                 "department": "History",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/history/images/keaney_heather_web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Chandra",
                 "lastName": "Mallampalli",
                 "department": "History",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/history/images/CSM1.JPG",
                 "duration": 8
             },
             {
                 "firstName": "Marianne",
                 "lastName": "Ruel Robins",
                 "department": "History",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/history/images/Robins-505x757.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Michelle",
                 "lastName": "Hughes",
                 "department": "Liberal Studies",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/education/images/Hughes.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Andrew",
                 "lastName": "Mullen",
                 "department": "Liberal Studies",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/education/images/andrew-mullen.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Jane",
                 "lastName": "Wilson",
                 "department": "Liberal Studies",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/education/images/Wilson.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Steve",
                 "lastName": "Butler",
                 "department": "Music",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/music/images/ButlerSteve1.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Grey",
                 "lastName": "Brothers",
                 "department": "Music",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/music/images/WMG_3263.JPG",
                 "duration": 8
             },
             {
                 "firstName": "Steven",
                 "lastName": "Hodson",
                 "department": "Music",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/music/images/HodsonSteve_2.JPG",
                 "duration": 8
             },
             {
                 "firstName": "Han",
                 "lastName": "Soo Kim",
                 "department": "Music",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/music/images/HanSooKim_000.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Michael",
                 "lastName": "Shasberger",
                 "department": "Music",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/music/uploads/2006/10/shasberger_michael_web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "James",
                 "lastName": "Taylor",
                 "department": "Philosophy",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/philosophy/uploads/2006/10/taylor_jim_web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "David",
                 "lastName": "Vander Laan",
                 "department": "Philosophy",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/philosophy/uploads/2006/10/vander_laan_david_web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Mark",
                 "lastName": "Nelson",
                 "department": "Philosophy",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/philosophy/images/MTNelliot47_000.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Ken",
                 "lastName": "Kihlstrom",
                 "department": "Physics",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/physics/images/kihlstrom.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Warren",
                 "lastName": "Rogers",
                 "department": "Physics",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/physics/images/Rogers_CAO_meeting_000.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Michael",
                 "lastName": "Sommermann",
                 "department": "Physics",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/physics/images/sommermann.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Tom",
                 "lastName": "whittemore",
                 "department": "Physics",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/physics/images/whittemore.JPG",
                 "duration": 8
             },
             {
                 "firstName": "Susan",
                 "lastName": "Penska",
                 "department": "Political Science",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "hhttp://www.westmont.edu/_academics/departments/political_science/images/KnechtPenksa-505x357.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Thomas",
                 "lastName": "Knecht",
                 "department": "Political Science",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/political_science/images/TomKnecht_000.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Jesse",
                 "lastName": "Covington",
                 "department": "Political Science",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/political_science/images/JDCheadshot.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Katherine",
                 "lastName": "Bryant",
                 "department": "Political Science",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/political_science/images/ScreenShot2016-08-12at2.27.25PM.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Steve",
                 "lastName": "Rogers",
                 "department": "Psychology",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/psychology/images/rogers_steven_web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Andrea",
                 "lastName": "Gurney",
                 "department": "Psychology",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/psychology/images/gurney_andrea_web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Carmel",
                 "lastName": "Saad",
                 "department": "Psychology",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/psychology/images/SaadCarmel_002.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Ronald",
                 "lastName": "See",
                 "department": "Psychology",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/psychology/images/RonaldSee.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Brenda",
                 "lastName": "Smith",
                 "department": "Psychology",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/psychology/images/smith_brenda_web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Raymond",
                 "lastName": "Paloutzian",
                 "department": "Psychology",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/psychology/images/paloutzian_ray_web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Charles",
                 "lastName": "Farhadian",
                 "department": "Religious Studies",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/religious_studies/images/charles-farhadian.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Holly",
                 "lastName": "Beers",
                 "department": "Religious Studies",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/religious_studies/images/HollyBeersFA2013a_000.JPG",
                 "duration": 8
             },
             {
                 "firstName": "Bruce",
                 "lastName": "Fisk",
                 "department": "Religious Studies",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/religious_studies/images/Bruce-Horizon-photo.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Tremper",
                 "lastName": "Longman",
                 "department": "Religious Studies",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/religious_studies/uploads/2006/08/longman_tremper_web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "William",
                 "lastName": "Nelson",
                 "department": "Religious Studies",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/religious_studies/uploads/2006/08/nelson_bill_web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Caryn",
                 "lastName": "Reeder",
                 "department": "Religious Studies",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/religious_studies/images/reeder_caryn_web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Helen",
                 "lastName": "Rhee",
                 "department": "Religious Studies",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/religious_studies/images/2H5F0604.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Telford",
                 "lastName": "Work",
                 "department": "Religious Studies",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/religious_studies/uploads/2006/10/work_telford_web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Sameer",
                 "lastName": "Yadav",
                 "department": "Religious Studies",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/religious_studies/images/SameerYadav.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Thomas",
                 "lastName": "Jayawardene",
                 "department": "Sociology",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/sociology_anthropology/uploads/jayawardene_thomas.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Sarah",
                 "lastName": "Jirek",
                 "department": "Sociology",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/sociology_anthropology/images/SarahJirek.JPG",
                 "duration": 8
             },
             {
                 "firstName": "Felicia",
                 "lastName": "Song",
                 "department": "Sociology",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/sociology_anthropology/images/Felicia-Wu-Song-325x487.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Serah",
                 "lastName": "Shani",
                 "department": "Sociology",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/sociology_anthropology/images/SHANI.JPG",
                 "duration": 8
             },
             {
                 "firstName": "Meredith",
                 "lastName": "Whitnah",
                 "department": "Sociology",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/sociology_anthropology/images/meredith-whitnah.jpg",
                 "duration": 8
             },
             {
                 "firstName": "John",
                 "lastName": "Blondell",
                 "department": "Theatre Arts",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/theatre_arts/images/blondellPic.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Mitchell",
                 "lastName": "Thomas",
                 "department": "Theatre Arts",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/theatre_arts/images/Mitchell.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Jonathan",
                 "lastName": "Hicks",
                 "department": "Theatre Arts",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/theatre_arts/images/JonathanHicks.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Susan",
                 "lastName": "Alexander",
                 "department": "Theatre Arts",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/theatre_arts/images/_DSC2803web.jpg",
                 "duration": 8
             },
             {
                 "firstName": "Miller",
                 "lastName": "James",
                 "department": "Theatre Arts",
-                "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/theatre_arts/images/MillerBioPicture.jpg",
                 "duration": 8
             },
 
