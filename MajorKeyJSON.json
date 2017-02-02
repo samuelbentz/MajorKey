@@ -193,7 +193,7 @@
                 "firstName": "Scott",
                 "lastName": "Anderson",
                 "department": "Art",
-                "image": "hhttp://www.westmont.edu/_academics/departments/art/images/AndersonThumbnail.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/art/images/AndersonThumbnail.jpg",
                 "duration": 8
             },
             {
@@ -529,7 +529,7 @@
                 "firstName": "Susan",
                 "lastName": "Penska",
                 "department": "Political Science",
-                "image": "hhttp://www.westmont.edu/_academics/departments/political_science/images/KnechtPenksa-505x357.jpg",
+                "image": "http://www.westmont.edu/_academics/departments/political_science/images/KnechtPenksa-505x357.jpg",
                 "duration": 8
             },
             {
