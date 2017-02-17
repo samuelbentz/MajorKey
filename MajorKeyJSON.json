@@ -148,6 +148,13 @@
                 "duration": 8
             },
             {
+                "firstName": "Carmen",
+                "lastName": "McCain",
+                "department": "English",
+                "image": "http://blogs.westmont.edu/wp-content/uploads/2016/08/McCain-Carmen-325x488.jpg",
+                "duration": 8
+            },
+            {
                 "firstName": "Paul",
                 "lastName": "Delaney",
                 "department": "English",
