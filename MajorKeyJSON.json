@@ -246,6 +246,13 @@
                 "duration": 8
             },
             {
+                "firstName": "Amanda",
+                "lastName": "Sparkman",
+                "department": "Biology",
+                "image": "https://www.westmont.edu/_offices/provost/vistas/img/plumes-1.jpg",
+                "duration": 8
+            },
+            {
                 "firstName": "Beth",
                 "lastName": "Horvath",
                 "department": "Biology",
@@ -502,6 +509,13 @@
                 "lastName": "Nelson",
                 "department": "Philosophy",
                 "image": "http://www.westmont.edu/_academics/departments/philosophy/images/MTNelliot47_000.jpg",
+                "duration": 8
+            },
+            {
+                "firstName": "Chris",
+                "lastName": "Hoeckley",
+                "department": "Philosophy",
+                "image": "https://www.westmont.edu/_academics/departments/philosophy/images/chris2_002.jpg",
                 "duration": 8
             },
             {
