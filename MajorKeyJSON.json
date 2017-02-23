@@ -108,7 +108,7 @@
             {
                 "firstName": "Dave",
                 "lastName": "Wolf",
-                "department": "Kinesiology & Athletic (Men's Soccer)",
+                "department": "Kinesiology & Athletic",
                 "title": "Faculty",
                 "image": "http://www.westmont.edu/_academics/departments/kinesiology/uploads/Photos/wolf_david_web.jpg",
                 "duration": 8
@@ -116,7 +116,7 @@
             {
                 "firstName": "John",
                 "lastName": "Moore",
-                "department": "Kinesiology & Athletic (Men's Basketball)",
+                "department": "Kinesiology & Athletic",
                 "title": "Faculty",
                 "image": "http://athletics.westmont.edu/images/2015/8/10/Moore_John_2014_3271.jpg?width=300",
                 "duration": 8
@@ -126,7 +126,7 @@
                 "lastName": "Beebe",
                 "department": "Administration",
                 "title": "Staff",
-                "image": "ttp://www.westmont.edu/_offices/president/images/beebe.jpg",
+                "image": "http://www.westmont.edu/_offices/president/images/beebe.jpg",
                 "duration": 8
             },
             {
