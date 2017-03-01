@@ -1,942 +1,1066 @@
 {
-    "faculty": [{
+    "faculty": [
+        {
             "firstName": "Wayne",
             "lastName": "Iba",
             "department": "Computer Science",
             "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
             "duration": 20
-        }, {
+        },
+        {
             "firstName": "Donald",
             "lastName": "Patterson",
             "department": "Computer Science",
             "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_academics/departments/computer_science/images/dpatterson.jpg",
             "duration": 2
-        }, {
+        },
+        {
             "firstName": "David",
             "lastName": "Hunter",
             "department": "Math",
             "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_academics/departments/mathematics/images/david-hunter.jpg",
             "duration": 21
-        }, {
+        },
+        {
             "firstName": "Patti",
             "lastName": "Hunter",
             "department": "Math",
             "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_academics/departments/mathematics/images/patti-hunter.jpg",
             "duration": 10
-        }, {
+        },
+        {
             "firstName": "Ray",
             "lastName": "Rosentrater",
             "department": "Math",
             "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_academics/departments/mathematics/images/ray-rosentrater.jpg",
             "duration": 24
-        }, {
+        },
+        {
             "firstName": "Russell",
             "lastName": "Howell",
             "department": "Math",
             "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_academics/departments/mathematics/images/russell-howell.jpg",
             "duration": 8
-        }, {
+        },
+        {
             "firstName": "Jonathan",
             "lastName": "Leech",
             "department": "Math",
             "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_academics/departments/mathematics/images/jonathan-leech.jpg",
-            "duration": 11             
+            "duration": 11
         },
-            {
-                "firstName": "John",
-                "lastName": "Rodkey",
-                "department": "Computer Science",
-                "title": "Faculty",
-                "image": "http://blogs.westmont.edu/wp-content/uploads/2006/09/rodkey_john_web1.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Christine",
-                "lastName": "Milner",
-                "department": "Kinesiology ",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/kinesiology/images/ChrisMilner2013.JPG",
-                "duration": 8
-            },
-            {
-                "firstName": "Gregg",
-                "lastName": "Affman",
-                "department": "Kinesiology ",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/kinesiology/uploads/Photos/afman_gregg_web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Ogechi",
-                "lastName": "Nwaokelemeh",
-                "department": "Kinesiology ",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/kinesiology/images/OgechiNwaokelemeh.JPG",
-                "duration": 8
-            },
-            {
-                "firstName": "Russell",
-                "lastName": "Smelley",
-                "department": "Kinesiology ",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/kinesiology/images/RussellSmelley2013.JPG",
-                "duration": 8
-            },
-            {
-                "firstName": "Timothy",
-                "lastName": "Van Haitsma",
-                "department": "Kinesiology ",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/kinesiology/images/TimVanHaitsma2014.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Tom",
-                "lastName": "Walters",
-                "department": "Kinesiology ",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/kinesiology/images/MK4_1918.JPG",
-                "duration": 8
-            },
-            {
-                "firstName": "Dave",
-                "lastName": "Wolf",
-                "department": "Kinesiology & Athletic",
-                "title": "Faculty & Staff",
-                "image": "http://www.westmont.edu/_academics/departments/kinesiology/uploads/Photos/wolf_david_web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "John",
-                "lastName": "Moore",
-                "department": "Kinesiology & Athletic",
-                "title": "Faculty & Staff",
-                "image": "http://athletics.westmont.edu/images/2015/8/10/Moore_John_2014_3271.jpg?width=300",
-                "duration": 8
-            },
-            {
-                "firstName": "Gayle",
-                "lastName": "Beebe",
-                "department": "Administration",
-                "title": "Staff",
-                "image": "http://www.westmont.edu/_offices/president/images/beebe.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Rick",
-                "lastName": "Ifland",
-                "department": "Economics & Business",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/economics_business/images/rick-ifland.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Martin",
-                "lastName": "Asher",
-                "department": "Economics & Business",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/economics_business/images/MartinAsher.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Enrico",
-                "lastName": "Manlapig",
-                "department": "Economics & Business",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/economics_business/images/EnricoManlapig.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Paul",
-                "lastName": "Morgan",
-                "department": "Economics & Business",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/economics_business/uploads/photos/morgan_paul.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Edd",
-                "lastName": "Noell",
-                "department": "Economics & Business",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/economics_business/images/Noell2012.JPG",
-                "duration": 8
-            },
-            {
-                "firstName": "Coby",
-                "lastName": "Harmon",
-                "department": "Economics & Business",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/economics_business/images/harmon_coby_2012.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "John",
-                "lastName": "Tynan",
-                "department": "Economics & Business",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/economics_business/images/Tynan5x7BW_000.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Carmen",
-                "lastName": "McCain",
-                "department": "English",
-                "title": "Faculty",
-                "image": "http://blogs.westmont.edu/wp-content/uploads/2016/08/McCain-Carmen-325x488.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Paul",
-                "lastName": "Delaney",
-                "department": "English",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/english/uploads/2007/04/delaney_paul_web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Elizabeth",
-                "lastName": "Hess",
-                "department": "English",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/english/images/elizabeth-hess.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Cheri",
-                "lastName": "Larsen Hoeckley",
-                "department": "English",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/english/images/cherilarsenhoeckley.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Sarah",
-                "lastName": "Skripsky",
-                "department": "English",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/english/images/yoder.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Randall",
-                "lastName": "VanderMey",
-                "department": "English",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/english/uploads/2007/04/vandermey_randall_web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Paul",
-                "lastName": "Willis",
-                "department": "English",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/english/images/willis-paul-2012.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Scott",
-                "lastName": "Anderson",
-                "department": "Art",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/art/images/AndersonThumbnail.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Lisa",
-                "lastName": "DeBoer",
-                "department": "Art",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/art/images/img_0617.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Brad",
-                "lastName": "Elliott",
-                "department": "Art",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/art/images/brad_elliott_web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Nathan",
-                "lastName": "Huff",
-                "department": "Art",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/art/images/HuffPicure.JPG",
-                "duration": 8
-            },
-            {
-                "firstName": "Judy",
-                "lastName": "Larson",
-                "department": "Art",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/art/images/img_0958.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Meagan",
-                "lastName": "Stirling",
-                "department": "Art",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/art/images/AD6V13821.JPG",
-                "duration": 8
-            },
-            {
-                "firstName": "Eileen",
-                "lastName": "McMahon McQuade",
-                "department": "Biology",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/biology/images/McQuadeMcMahonEileen.JPG",
-                "duration": 8
-            },
-            {
-                "firstName": "Amanda",
-                "lastName": "Sparkman",
-                "department": "Biology",
-                "title": "Faculty",
-                "image": "https://www.westmont.edu/_offices/provost/vistas/img/plumes-1.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Beth",
-                "lastName": "Horvath",
-                "department": "Biology",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/biology/uploads/2006/09/Horvath_Web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Steve",
-                "lastName": "Julio",
-                "department": "Biology",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/biology/uploads/2006/09/Julio_Web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Frank",
-                "lastName": "Percival",
-                "department": "Biology",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/biology/uploads/2006/09/Percival_Web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Jeff",
-                "lastName": "Schloss",
-                "department": "Biology",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/biology/uploads/2006/08/Schloss_Web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Michael",
-                "lastName": "Everest",
-                "department": "Chemistry",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/chemistry/images/Michael_Everest1c.JPG",
-                "duration": 8
-            },
-            {
-                "firstName": "Kristi",
-                "lastName": "Lazar Cantrell",
-                "department": "Chemistry",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/chemistry/images/Kristi-L-2a_001.JPG",
-                "duration": 8
-            },
-            {
-                "firstName": "Stephen",
-                "lastName": "Contakes",
-                "department": "Chemistry",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/chemistry/images/contakesstephen1.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Allan",
-                "lastName": "Nishimura",
-                "department": "Chemistry",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/chemistry/uploads/2006/11/nishimura_allan_web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "David",
-                "lastName": "Marten",
-                "department": "Chemistry",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/chemistry/uploads/2006/11/marten_david_web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Amanda",
-                "lastName": "Silberstein",
-                "department": "Chemistry",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/chemistry/images/Silberstein-Amanda-505x758.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Carrie",
-                "lastName": "Stein Hill",
-                "department": "Chemistry",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/chemistry/images/Carrie_002.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Niva",
-                "lastName": "Tro",
-                "department": "Chemistry",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/chemistry/images/tro_nivaldo_web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Deborah",
-                "lastName": "Dunn",
-                "department": "Communications Studies",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/communication_studies/images/deborah_dunn.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Greg",
-                "lastName": "Spencer",
-                "department": "Communications Studies",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/communication_studies/images/spencer.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Elizabeth",
-                "lastName": "Gardner",
-                "department": "Communications Studies",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/communication_studies/images/D1X_0621.JPG",
-                "duration": 8
-            },
-            {
-                "firstName": "Lesa",
-                "lastName": "Stern",
-                "department": "Communications Studies",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/communication_studies/images/lesa_stern.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Dinora",
-                "lastName": "Cardoso",
-                "department": "Spanish",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/modern_languages/images/Cardoso_000.JPG",
-                "duration": 8
-            },
-            {
-                "firstName": "Leanor",
-                "lastName": "Elias",
-                "department": "Spanish",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/modern_languages/uploads/2007/04/elias_leonor_web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Mary",
-                "lastName": "Docter",
-                "department": "Spanish",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/modern_languages/uploads/2007/04/doctor_mary_web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Mary",
-                "lastName": "Collier",
-                "department": "French",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/modern_languages/uploads/2007/04/collier_mary_web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Marcelo",
-                "lastName": "Meija-Perez",
-                "department": "Spanish",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/modern_languages/images/ad6v1442.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Richard",
-                "lastName": "Pointer",
-                "department": "History",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/history/images/2H5F1595.JPG",
-                "duration": 8
-            },
-            {
-                "firstName": "Alister",
-                "lastName": "Chapman",
-                "department": "History",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/history/images/CHAPMANJULY2012.JPG",
-                "duration": 8
-            },
-            {
-                "firstName": "Heather",
-                "lastName": "Keaney",
-                "department": "History",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/history/images/keaney_heather_web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Chandra",
-                "lastName": "Mallampalli",
-                "department": "History",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/history/images/CSM1.JPG",
-                "duration": 8
-            },
-            {
-                "firstName": "Marianne",
-                "lastName": "Ruel Robins",
-                "department": "History",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/history/images/Robins-505x757.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Michelle",
-                "lastName": "Hughes",
-                "department": "Liberal Studies",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/education/images/Hughes.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Andrew",
-                "lastName": "Mullen",
-                "department": "Liberal Studies",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/education/images/andrew-mullen.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Jane",
-                "lastName": "Wilson",
-                "department": "Liberal Studies",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/education/images/Wilson.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Steve",
-                "lastName": "Butler",
-                "department": "Music",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/music/images/ButlerSteve1.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Grey",
-                "lastName": "Brothers",
-                "department": "Music",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/music/images/WMG_3263.JPG",
-                "duration": 8
-            },
-            {
-                "firstName": "Steven",
-                "lastName": "Hodson",
-                "department": "Music",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/music/images/HodsonSteve_2.JPG",
-                "duration": 8
-            },
-            {
-                "firstName": "Han",
-                "lastName": "Soo Kim",
-                "department": "Music",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/music/images/HanSooKim_000.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Michael",
-                "lastName": "Shasberger",
-                "department": "Music",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/music/uploads/2006/10/shasberger_michael_web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "James",
-                "lastName": "Taylor",
-                "department": "Philosophy",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/philosophy/uploads/2006/10/taylor_jim_web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "David",
-                "lastName": "Vander Laan",
-                "department": "Philosophy",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/philosophy/uploads/2006/10/vander_laan_david_web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Mark",
-                "lastName": "Nelson",
-                "department": "Philosophy",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/philosophy/images/MTNelliot47_000.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Chris",
-                "lastName": "Hoeckley",
-                "department": "Philosophy",
-                "title": "Faculty",
-                "image": "https://www.westmont.edu/_academics/departments/philosophy/images/chris2_002.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Ken",
-                "lastName": "Kihlstrom",
-                "department": "Physics",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/physics/images/kihlstrom.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Jonathan",
-                "lastName": "Mitchell",
-                "department": "Physics",
-                "title": "Faculty",
-                "image": "http://blogs.westmont.edu/wp-content/uploads/2016/08/Mitchell-Jonathan-325x488.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Michael",
-                "lastName": "Sommermann",
-                "department": "Physics",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/physics/images/sommermann.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Tom",
-                "lastName": "whittemore",
-                "department": "Physics",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/physics/images/whittemore.JPG",
-                "duration": 8
-            },
-            {
-                "firstName": "Susan",
-                "lastName": "Penska",
-                "department": "Political Science",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/political_science/images/KnechtPenksa-505x357.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Thomas",
-                "lastName": "Knecht",
-                "department": "Political Science",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/political_science/images/TomKnecht_000.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Jesse",
-                "lastName": "Covington",
-                "department": "Political Science",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/political_science/images/JDCheadshot.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Katherine",
-                "lastName": "Bryant",
-                "department": "Political Science",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/political_science/images/ScreenShot2016-08-12at2.27.25PM.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Steve",
-                "lastName": "Rogers",
-                "department": "Psychology",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/psychology/images/rogers_steven_web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Andrea",
-                "lastName": "Gurney",
-                "department": "Psychology",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/psychology/images/gurney_andrea_web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Carmel",
-                "lastName": "Saad",
-                "department": "Psychology",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/psychology/images/SaadCarmel_002.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Ronald",
-                "lastName": "See",
-                "department": "Psychology",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/psychology/images/RonaldSee.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Brenda",
-                "lastName": "Smith",
-                "department": "Psychology",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/psychology/images/smith_brenda_web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Raymond",
-                "lastName": "Paloutzian",
-                "department": "Psychology",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/psychology/images/paloutzian_ray_web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Charles",
-                "lastName": "Farhadian",
-                "department": "Religious Studies",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/religious_studies/images/charles-farhadian.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Holly",
-                "lastName": "Beers",
-                "department": "Religious Studies",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/religious_studies/images/HollyBeersFA2013a_000.JPG",
-                "duration": 8
-            },
-            {
-                "firstName": "Bruce",
-                "lastName": "Fisk",
-                "department": "Religious Studies",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/religious_studies/images/Bruce-Horizon-photo.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Tremper",
-                "lastName": "Longman",
-                "department": "Religious Studies",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/religious_studies/uploads/2006/08/longman_tremper_web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "William",
-                "lastName": "Nelson",
-                "department": "Religious Studies",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/religious_studies/uploads/2006/08/nelson_bill_web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Caryn",
-                "lastName": "Reeder",
-                "department": "Religious Studies",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/religious_studies/images/reeder_caryn_web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Helen",
-                "lastName": "Rhee",
-                "department": "Religious Studies",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/religious_studies/images/2H5F0604.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Telford",
-                "lastName": "Work",
-                "department": "Religious Studies",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/religious_studies/uploads/2006/10/work_telford_web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Sameer",
-                "lastName": "Yadav",
-                "department": "Religious Studies",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/religious_studies/images/SameerYadav.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Thomas",
-                "lastName": "Jayawardene",
-                "department": "Sociology",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/sociology_anthropology/uploads/jayawardene_thomas.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Sarah",
-                "lastName": "Jirek",
-                "department": "Sociology",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/sociology_anthropology/images/SarahJirek.JPG",
-                "duration": 8
-            },
-            {
-                "firstName": "Felicia",
-                "lastName": "Song",
-                "department": "Sociology",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/sociology_anthropology/images/Felicia-Wu-Song-325x487.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Serah",
-                "lastName": "Shani",
-                "department": "Sociology",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/sociology_anthropology/images/SHANI.JPG",
-                "duration": 8
-            },
-            {
-                "firstName": "Meredith",
-                "lastName": "Whitnah",
-                "department": "Sociology",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/sociology_anthropology/images/meredith-whitnah.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Tom",
-                "lastName": "Bauer",
-                "department": "Public Safety",
-                "title": "Staff",
-                "image": "http://www.westmont.edu/_offices/physical_plant/images/Tom_Bauer.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Mayra",
-                "lastName": "Leo",
-                "department": "Custodial Services",
-                "title": "Staff",
-                "image": "http://www.westmont.edu/_offices/physical_plant/images/Mayra_Leo.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Phil",
-                "lastName": "Baker",
-                "department": "Grounds & Automotive",
-                "title": "Staff",
-                "image": "http://www.westmont.edu/_offices/physical_plant/images/Phil_Baker.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Beth",
-                "lastName": "Cauwels",
-                "department": "Human Resources",
-                "title": "Staff",
-                "image": "http://www.westmont.edu/_offices/human_resources/images/bios/beth-cauwels.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Greta",
-                "lastName": "Bruneel",
-                "department": "Human Resources",
-                "title": "Staff",
-                "image": "http://www.westmont.edu/_offices/human_resources/images/bios/greta-bruneel.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Wendy",
-                "lastName": "Wright",
-                "department": "Human Resources",
-                "title": "Staff",
-                "image": "http://www.westmont.edu/_offices/human_resources/images/wendy-wright.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Alexis",
-                "lastName": "Barrett",
-                "department": "Human Resources",
-                "title": "Staff",
-                "image": "http://www.westmont.edu/_offices/human_resources/images/WMG_1649.JPG",
-                "duration": 8
-            },
-            {
-                "firstName": "Hugo",
-                "lastName": "Franco",
-                "department": "Trades",
-                "title": "Staff",
-                "image": "http://www.westmont.edu/_offices/physical_plant/images/Hugo_Franco.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "John",
-                "lastName": "Blondell",
-                "department": "Theatre Arts",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/theatre_arts/images/blondellPic.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Mitchell",
-                "lastName": "Thomas",
-                "department": "Theatre Arts",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/theatre_arts/images/Mitchell.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Jonathan",
-                "lastName": "Hicks",
-                "department": "Theatre Arts",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/theatre_arts/images/JonathanHicks.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Susan",
-                "lastName": "Alexander",
-                "department": "Theatre Arts",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/theatre_arts/images/_DSC2803web.jpg",
-                "duration": 8
-            },
-            {
-                "firstName": "Miller",
-                "lastName": "James",
-                "department": "Theatre Arts",
-                "title": "Faculty",
-                "image": "http://www.westmont.edu/_academics/departments/theatre_arts/images/MillerBioPicture.jpg",
-                "duration": 8
-            }
-
-        ]
-    }
+        {
+            "firstName": "John",
+            "lastName": "Rodkey",
+            "department": "Computer Science",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2006/09/rodkey_john_web1.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Christine",
+            "lastName": "Milner",
+            "department": "Kinesiology ",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/kinesiology/images/ChrisMilner2013.JPG",
+            "duration": 8
+        },
+        {
+            "firstName": "Gregg",
+            "lastName": "Affman",
+            "department": "Kinesiology ",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/kinesiology/uploads/Photos/afman_gregg_web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Ogechi",
+            "lastName": "Nwaokelemeh",
+            "department": "Kinesiology ",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/kinesiology/images/OgechiNwaokelemeh.JPG",
+            "duration": 8
+        },
+        {
+            "firstName": "Russell",
+            "lastName": "Smelley",
+            "department": "Kinesiology ",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/kinesiology/images/RussellSmelley2013.JPG",
+            "duration": 8
+        },
+        {
+            "firstName": "Timothy",
+            "lastName": "Van Haitsma",
+            "department": "Kinesiology ",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/kinesiology/images/TimVanHaitsma2014.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Tom",
+            "lastName": "Walters",
+            "department": "Kinesiology ",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/kinesiology/images/MK4_1918.JPG",
+            "duration": 8
+        },
+        {
+            "firstName": "Dave",
+            "lastName": "Wolf",
+            "department": "Kinesiology & Athletic",
+            "title": "Faculty & Staff",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/kinesiology/uploads/Photos/wolf_david_web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "John",
+            "lastName": "Moore",
+            "department": "Kinesiology & Athletic",
+            "title": "Faculty & Staff",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://athletics.westmont.edu/images/2015/8/10/Moore_John_2014_3271.jpg?width=300",
+            "duration": 8
+        },
+        {
+            "firstName": "Gayle",
+            "lastName": "Beebe",
+            "department": "Administration",
+            "title": "Staff",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_offices/president/images/beebe.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Rick",
+            "lastName": "Ifland",
+            "department": "Economics & Business",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/economics_business/images/rick-ifland.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Martin",
+            "lastName": "Asher",
+            "department": "Economics & Business",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/economics_business/images/MartinAsher.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Enrico",
+            "lastName": "Manlapig",
+            "department": "Economics & Business",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/economics_business/images/EnricoManlapig.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Paul",
+            "lastName": "Morgan",
+            "department": "Economics & Business",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/economics_business/uploads/photos/morgan_paul.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Edd",
+            "lastName": "Noell",
+            "department": "Economics & Business",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/economics_business/images/Noell2012.JPG",
+            "duration": 8
+        },
+        {
+            "firstName": "Coby",
+            "lastName": "Harmon",
+            "department": "Economics & Business",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/economics_business/images/harmon_coby_2012.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "John",
+            "lastName": "Tynan",
+            "department": "Economics & Business",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/economics_business/images/Tynan5x7BW_000.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Carmen",
+            "lastName": "McCain",
+            "department": "English",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2016/08/McCain-Carmen-325x488.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Paul",
+            "lastName": "Delaney",
+            "department": "English",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/english/uploads/2007/04/delaney_paul_web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Elizabeth",
+            "lastName": "Hess",
+            "department": "English",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/english/images/elizabeth-hess.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Cheri",
+            "lastName": "Larsen Hoeckley",
+            "department": "English",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/english/images/cherilarsenhoeckley.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Sarah",
+            "lastName": "Skripsky",
+            "department": "English",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/english/images/yoder.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Randall",
+            "lastName": "VanderMey",
+            "department": "English",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/english/uploads/2007/04/vandermey_randall_web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Paul",
+            "lastName": "Willis",
+            "department": "English",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/english/images/willis-paul-2012.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Scott",
+            "lastName": "Anderson",
+            "department": "Art",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/art/images/AndersonThumbnail.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Lisa",
+            "lastName": "DeBoer",
+            "department": "Art",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/art/images/img_0617.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Brad",
+            "lastName": "Elliott",
+            "department": "Art",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/art/images/brad_elliott_web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Nathan",
+            "lastName": "Huff",
+            "department": "Art",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/art/images/HuffPicure.JPG",
+            "duration": 8
+        },
+        {
+            "firstName": "Judy",
+            "lastName": "Larson",
+            "department": "Art",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/art/images/img_0958.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Meagan",
+            "lastName": "Stirling",
+            "department": "Art",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/art/images/AD6V13821.JPG",
+            "duration": 8
+        },
+        {
+            "firstName": "Eileen",
+            "lastName": "McMahon McQuade",
+            "department": "Biology",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/biology/images/McQuadeMcMahonEileen.JPG",
+            "duration": 8
+        },
+        {
+            "firstName": "Amanda",
+            "lastName": "Sparkman",
+            "department": "Biology",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "https://www.westmont.edu/_offices/provost/vistas/img/plumes-1.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Beth",
+            "lastName": "Horvath",
+            "department": "Biology",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/biology/uploads/2006/09/Horvath_Web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Steve",
+            "lastName": "Julio",
+            "department": "Biology",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/biology/uploads/2006/09/Julio_Web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Frank",
+            "lastName": "Percival",
+            "department": "Biology",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/biology/uploads/2006/09/Percival_Web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Jeff",
+            "lastName": "Schloss",
+            "department": "Biology",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/biology/uploads/2006/08/Schloss_Web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Michael",
+            "lastName": "Everest",
+            "department": "Chemistry",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/chemistry/images/Michael_Everest1c.JPG",
+            "duration": 8
+        },
+        {
+            "firstName": "Kristi",
+            "lastName": "Lazar Cantrell",
+            "department": "Chemistry",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/chemistry/images/Kristi-L-2a_001.JPG",
+            "duration": 8
+        },
+        {
+            "firstName": "Stephen",
+            "lastName": "Contakes",
+            "department": "Chemistry",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/chemistry/images/contakesstephen1.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Allan",
+            "lastName": "Nishimura",
+            "department": "Chemistry",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/chemistry/uploads/2006/11/nishimura_allan_web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "David",
+            "lastName": "Marten",
+            "department": "Chemistry",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/chemistry/uploads/2006/11/marten_david_web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Amanda",
+            "lastName": "Silberstein",
+            "department": "Chemistry",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/chemistry/images/Silberstein-Amanda-505x758.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Carrie",
+            "lastName": "Stein Hill",
+            "department": "Chemistry",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/chemistry/images/Carrie_002.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Niva",
+            "lastName": "Tro",
+            "department": "Chemistry",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/chemistry/images/tro_nivaldo_web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Deborah",
+            "lastName": "Dunn",
+            "department": "Communications Studies",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/communication_studies/images/deborah_dunn.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Greg",
+            "lastName": "Spencer",
+            "department": "Communications Studies",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/communication_studies/images/spencer.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Elizabeth",
+            "lastName": "Gardner",
+            "department": "Communications Studies",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/communication_studies/images/D1X_0621.JPG",
+            "duration": 8
+        },
+        {
+            "firstName": "Lesa",
+            "lastName": "Stern",
+            "department": "Communications Studies",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/communication_studies/images/lesa_stern.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Dinora",
+            "lastName": "Cardoso",
+            "department": "Spanish",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/modern_languages/images/Cardoso_000.JPG",
+            "duration": 8
+        },
+        {
+            "firstName": "Leanor",
+            "lastName": "Elias",
+            "department": "Spanish",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/modern_languages/uploads/2007/04/elias_leonor_web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Mary",
+            "lastName": "Docter",
+            "department": "Spanish",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/modern_languages/uploads/2007/04/doctor_mary_web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Mary",
+            "lastName": "Collier",
+            "department": "French",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/modern_languages/uploads/2007/04/collier_mary_web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Marcelo",
+            "lastName": "Meija-Perez",
+            "department": "Spanish",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/modern_languages/images/ad6v1442.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Richard",
+            "lastName": "Pointer",
+            "department": "History",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/history/images/2H5F1595.JPG",
+            "duration": 8
+        },
+        {
+            "firstName": "Alister",
+            "lastName": "Chapman",
+            "department": "History",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/history/images/CHAPMANJULY2012.JPG",
+            "duration": 8
+        },
+        {
+            "firstName": "Heather",
+            "lastName": "Keaney",
+            "department": "History",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/history/images/keaney_heather_web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Chandra",
+            "lastName": "Mallampalli",
+            "department": "History",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/history/images/CSM1.JPG",
+            "duration": 8
+        },
+        {
+            "firstName": "Marianne",
+            "lastName": "Ruel Robins",
+            "department": "History",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/history/images/Robins-505x757.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Michelle",
+            "lastName": "Hughes",
+            "department": "Liberal Studies",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/education/images/Hughes.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Andrew",
+            "lastName": "Mullen",
+            "department": "Liberal Studies",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/education/images/andrew-mullen.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Jane",
+            "lastName": "Wilson",
+            "department": "Liberal Studies",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/education/images/Wilson.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Steve",
+            "lastName": "Butler",
+            "department": "Music",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/music/images/ButlerSteve1.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Grey",
+            "lastName": "Brothers",
+            "department": "Music",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/music/images/WMG_3263.JPG",
+            "duration": 8
+        },
+        {
+            "firstName": "Steven",
+            "lastName": "Hodson",
+            "department": "Music",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/music/images/HodsonSteve_2.JPG",
+            "duration": 8
+        },
+        {
+            "firstName": "Han",
+            "lastName": "Soo Kim",
+            "department": "Music",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/music/images/HanSooKim_000.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Michael",
+            "lastName": "Shasberger",
+            "department": "Music",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/music/uploads/2006/10/shasberger_michael_web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "James",
+            "lastName": "Taylor",
+            "department": "Philosophy",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/philosophy/uploads/2006/10/taylor_jim_web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "David",
+            "lastName": "Vander Laan",
+            "department": "Philosophy",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/philosophy/uploads/2006/10/vander_laan_david_web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Mark",
+            "lastName": "Nelson",
+            "department": "Philosophy",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/philosophy/images/MTNelliot47_000.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Chris",
+            "lastName": "Hoeckley",
+            "department": "Philosophy",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "https://www.westmont.edu/_academics/departments/philosophy/images/chris2_002.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Ken",
+            "lastName": "Kihlstrom",
+            "department": "Physics",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/physics/images/kihlstrom.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Jonathan",
+            "lastName": "Mitchell",
+            "department": "Physics",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2016/08/Mitchell-Jonathan-325x488.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Michael",
+            "lastName": "Sommermann",
+            "department": "Physics",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/physics/images/sommermann.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Tom",
+            "lastName": "whittemore",
+            "department": "Physics",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/physics/images/whittemore.JPG",
+            "duration": 8
+        },
+        {
+            "firstName": "Susan",
+            "lastName": "Penska",
+            "department": "Political Science",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/political_science/images/KnechtPenksa-505x357.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Thomas",
+            "lastName": "Knecht",
+            "department": "Political Science",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/political_science/images/TomKnecht_000.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Jesse",
+            "lastName": "Covington",
+            "department": "Political Science",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/political_science/images/JDCheadshot.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Katherine",
+            "lastName": "Bryant",
+            "department": "Political Science",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/political_science/images/ScreenShot2016-08-12at2.27.25PM.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Steve",
+            "lastName": "Rogers",
+            "department": "Psychology",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/psychology/images/rogers_steven_web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Andrea",
+            "lastName": "Gurney",
+            "department": "Psychology",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/psychology/images/gurney_andrea_web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Carmel",
+            "lastName": "Saad",
+            "department": "Psychology",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/psychology/images/SaadCarmel_002.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Ronald",
+            "lastName": "See",
+            "department": "Psychology",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/psychology/images/RonaldSee.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Brenda",
+            "lastName": "Smith",
+            "department": "Psychology",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/psychology/images/smith_brenda_web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Raymond",
+            "lastName": "Paloutzian",
+            "department": "Psychology",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/psychology/images/paloutzian_ray_web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Charles",
+            "lastName": "Farhadian",
+            "department": "Religious Studies",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/religious_studies/images/charles-farhadian.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Holly",
+            "lastName": "Beers",
+            "department": "Religious Studies",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/religious_studies/images/HollyBeersFA2013a_000.JPG",
+            "duration": 8
+        },
+        {
+            "firstName": "Bruce",
+            "lastName": "Fisk",
+            "department": "Religious Studies",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/religious_studies/images/Bruce-Horizon-photo.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Tremper",
+            "lastName": "Longman",
+            "department": "Religious Studies",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/religious_studies/uploads/2006/08/longman_tremper_web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "William",
+            "lastName": "Nelson",
+            "department": "Religious Studies",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/religious_studies/uploads/2006/08/nelson_bill_web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Caryn",
+            "lastName": "Reeder",
+            "department": "Religious Studies",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/religious_studies/images/reeder_caryn_web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Helen",
+            "lastName": "Rhee",
+            "department": "Religious Studies",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/religious_studies/images/2H5F0604.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Telford",
+            "lastName": "Work",
+            "department": "Religious Studies",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/religious_studies/uploads/2006/10/work_telford_web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Sameer",
+            "lastName": "Yadav",
+            "department": "Religious Studies",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/religious_studies/images/SameerYadav.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Thomas",
+            "lastName": "Jayawardene",
+            "department": "Sociology",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/sociology_anthropology/uploads/jayawardene_thomas.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Sarah",
+            "lastName": "Jirek",
+            "department": "Sociology",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/sociology_anthropology/images/SarahJirek.JPG",
+            "duration": 8
+        },
+        {
+            "firstName": "Felicia",
+            "lastName": "Song",
+            "department": "Sociology",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/sociology_anthropology/images/Felicia-Wu-Song-325x487.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Serah",
+            "lastName": "Shani",
+            "department": "Sociology",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/sociology_anthropology/images/SHANI.JPG",
+            "duration": 8
+        },
+        {
+            "firstName": "Meredith",
+            "lastName": "Whitnah",
+            "department": "Sociology",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/sociology_anthropology/images/meredith-whitnah.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Tom",
+            "lastName": "Bauer",
+            "department": "Public Safety",
+            "title": "Staff",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_offices/physical_plant/images/Tom_Bauer.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Mayra",
+            "lastName": "Leo",
+            "department": "Custodial Services",
+            "title": "Staff",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_offices/physical_plant/images/Mayra_Leo.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Phil",
+            "lastName": "Baker",
+            "department": "Grounds & Automotive",
+            "title": "Staff",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_offices/physical_plant/images/Phil_Baker.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Beth",
+            "lastName": "Cauwels",
+            "department": "Human Resources",
+            "title": "Staff",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_offices/human_resources/images/bios/beth-cauwels.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Greta",
+            "lastName": "Bruneel",
+            "department": "Human Resources",
+            "title": "Staff",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_offices/human_resources/images/bios/greta-bruneel.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Wendy",
+            "lastName": "Wright",
+            "department": "Human Resources",
+            "title": "Staff",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_offices/human_resources/images/wendy-wright.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Alexis",
+            "lastName": "Barrett",
+            "department": "Human Resources",
+            "title": "Staff",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_offices/human_resources/images/WMG_1649.JPG",
+            "duration": 8
+        },
+        {
+            "firstName": "Hugo",
+            "lastName": "Franco",
+            "department": "Trades",
+            "title": "Staff",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_offices/physical_plant/images/Hugo_Franco.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "John",
+            "lastName": "Blondell",
+            "department": "Theatre Arts",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/theatre_arts/images/blondellPic.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Mitchell",
+            "lastName": "Thomas",
+            "department": "Theatre Arts",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/theatre_arts/images/Mitchell.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Jonathan",
+            "lastName": "Hicks",
+            "department": "Theatre Arts",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/theatre_arts/images/JonathanHicks.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Susan",
+            "lastName": "Alexander",
+            "department": "Theatre Arts",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/theatre_arts/images/_DSC2803web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Miller",
+            "lastName": "James",
+            "department": "Theatre Arts",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/theatre_arts/images/MillerBioPicture.jpg",
+            "duration": 8
+        }
+    ]
+}
