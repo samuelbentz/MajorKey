@@ -5,7 +5,7 @@
             "lastName": "Iba",
             "department": "Computer Science",
             "title": "Faculty",
-            "source": "http://www.westmont.edu/_academics/",
+            "source": "http://www.westmont.edu/_academics/departments/computer_science/wayneiba.html",
             "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
             "duration": 20
         },
@@ -14,7 +14,7 @@
             "lastName": "Patterson",
             "department": "Computer Science",
             "title": "Faculty",
-            "source": "http://www.westmont.edu/_academics/",
+            "source": "http://www.westmont.edu/_academics/departments/computer_science/donpatterson.html",
             "image": "http://www.westmont.edu/_academics/departments/computer_science/images/dpatterson.jpg",
             "duration": 2
         },
