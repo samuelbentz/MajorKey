@@ -148,7 +148,7 @@
             "firstName": "Gayle",
             "lastName": "Beebe",
             "department": "Administration",
-            "title": "Staff",
+            "title": "President",
             "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_offices/president/images/beebe.jpg",
             "duration": 8
@@ -949,7 +949,7 @@
             "firstName": "Tom",
             "lastName": "Bauer",
             "department": "Public Safety",
-            "title": "Staff",
+            "title": "Chief Of Public Safety",
             "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_offices/physical_plant/images/Tom_Bauer.jpg",
             "duration": 8
@@ -957,8 +957,8 @@
         {
             "firstName": "Mayra",
             "lastName": "Leo",
-            "department": "Custodial Services",
-            "title": "Staff",
+            "department": "Physical Plant",
+            "title": "Custodial Services",
             "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_offices/physical_plant/images/Mayra_Leo.jpg",
             "duration": 8
@@ -967,7 +967,7 @@
             "firstName": "Phil",
             "lastName": "Baker",
             "department": "Grounds & Automotive",
-            "title": "Staff",
+            "title": "Manager of Grounds",
             "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_offices/physical_plant/images/Phil_Baker.jpg",
             "duration": 8
@@ -976,7 +976,7 @@
             "firstName": "Beth",
             "lastName": "Cauwels",
             "department": "Human Resources",
-            "title": "Staff",
+            "title": "Director of Human Resources",
             "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_offices/human_resources/images/bios/beth-cauwels.jpg",
             "duration": 8
@@ -985,7 +985,7 @@
             "firstName": "Greta",
             "lastName": "Bruneel",
             "department": "Human Resources",
-            "title": "Staff",
+            "title": "Associate Director of Human Resources",
             "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_offices/human_resources/images/bios/greta-bruneel.jpg",
             "duration": 8
@@ -994,7 +994,7 @@
             "firstName": "Wendy",
             "lastName": "Wright",
             "department": "Human Resources",
-            "title": "Staff",
+            "title": "Employment & Benefits Specialist",
             "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_offices/human_resources/images/wendy-wright.jpg",
             "duration": 8
@@ -1003,7 +1003,7 @@
             "firstName": "Alexis",
             "lastName": "Barrett",
             "department": "Human Resources",
-            "title": "Staff",
+            "title": "Human Resources Assistant",
             "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_offices/human_resources/images/WMG_1649.JPG",
             "duration": 8
@@ -1011,8 +1011,8 @@
         {
             "firstName": "Hugo",
             "lastName": "Franco",
-            "department": "Trades",
-            "title": "Staff",
+            "department": "Physical Plant",
+            "title": "Trades",
             "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_offices/physical_plant/images/Hugo_Franco.jpg",
             "duration": 8
@@ -2174,15 +2174,6 @@
             "lastName": "Angel",
             "department": "Phy Plant--custodial",
             "title": "Custodian ",
-            "source": "",
-            "image": "",
-            "duration": 0
-        },
-        {
-            "firstName": "Hugo",
-            "lastName": "Franco",
-            "department": "P",
-            "title": "Phy Plant--trades ",
             "source": "",
             "image": "",
             "duration": 0
