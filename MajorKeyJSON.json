@@ -5,7 +5,7 @@
             "lastName": "Iba",
             "department": "Computer Science",
             "title": "Faculty",
-            "source": "http://www.westmont.edu/_academics/departments/computer_science/wayneiba.html",
+            "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
             "duration": 20
         },
@@ -14,7 +14,7 @@
             "lastName": "Patterson",
             "department": "Computer Science",
             "title": "Faculty Member",
-            "source": "http://www.westmont.edu/_academics/departments/computer_science/donpatterson.html",
+            "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_academics/departments/computer_science/images/dpatterson.jpg",
             "duration": 2
         },
@@ -722,7 +722,7 @@
         },
         {
             "firstName": "Tom",
-            "lastName": "Whittemore",
+            "lastName": "whittemore",
             "department": "Physics",
             "title": "Faculty",
             "source": "http://www.westmont.edu/_academics/",
@@ -1061,6 +1061,3355 @@
             "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_academics/departments/theatre_arts/images/MillerBioPicture.jpg",
             "duration": 8
+        },
+        {
+            "firstName": "Johnny",
+            "lastName": "Whallon",
+            "department": "Athletics Administration",
+            "title": "Lead Asst. Coach, Men's Soccer/conference Operations Coord",
+            "source": "http://www.westmont.edu/",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Daniel",
+            "lastName": "Gee",
+            "department": "Music",
+            "title": "Instructor Of Music ",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_offices/provost/provost-report/images/daniel-gee_000.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Jason",
+            "lastName": "Eldred",
+            "department": "History",
+            "title": "Instructor Of History ",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/history/images/JasonEldred.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Dan",
+            "lastName": "Bos",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/music/images/DanBos.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Heidi",
+            "lastName": "Henes-Van Bergen",
+            "department": "Chemistry",
+            "title": "Faculty",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/chemistry/images/henes_vanbergen_heidi_web_004.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Erin",
+            "lastName": "Shaffer",
+            "department": "Counseling Center",
+            "title": "Marriage & Family Therapist ",
+            "source": "http://www.westmont.edu/_current_students/",
+            "image": "http://www.santabarbaravacationinfo.com/wp-content/uploads/2012/08/westmont-college.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Jim",
+            "lastName": "Mooy",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.westmont.edu/_academics/departments/music/images/Picture10.png",
+            "duration": 0
+        },
+        {
+            "firstName": "Ashley",
+            "lastName": "Olsen",
+            "department": "Kinesiology",
+            "title": "Secretary - Athletics Pt",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.santabarbaravacationinfo.com/wp-content/uploads/2012/08/westmont-college.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Sergio",
+            "lastName": "Hernandez",
+            "department": "Alumni And Parent Relations",
+            "title": "Current Student & Young Alumni Coordinator",
+            "source": "http://www.westmont.edu/_current_students/",
+            "image": "http://www.westmont.edu/alumni/images/SergioHernandez_8.12.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Kirsten",
+            "lastName": "Burdick",
+            "department": "Administration",
+            "title": "Executive Assistant to Provost",
+            "source": "http://www.westmont.edu/_offices/provost/provost-report/archive/feb16/",
+            "image": "http://www.westmont.edu/_offices/provost/provost-report/images/Burdick1.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Kevin",
+            "lastName": "Hess",
+            "department": "Information Technology",
+            "title": "Senior Director Of Information Technology ",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.santabarbaravacationinfo.com/wp-content/uploads/2012/08/westmont-college.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Christopher",
+            "lastName": "Ecklund",
+            "department": "Kinesiology",
+            "title": "Instructor Of Kinesiology ",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.santabarbaravacationinfo.com/wp-content/uploads/2012/08/westmont-college.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Ann",
+            "lastName": "Lippincott",
+            "department": "English",
+            "title": "Professor Of English ",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.santabarbaravacationinfo.com/wp-content/uploads/2012/08/westmont-college.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Paul",
+            "lastName": "Bradford",
+            "department": "Career Development And Calling",
+            "title": "Director Of Career Development And Calling ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Randy",
+            "lastName": "Jones",
+            "department": "Campus Planning",
+            "title": "Director Of Campus Planning ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Tim",
+            "lastName": "Wilson",
+            "department": "Office Of Student Life",
+            "title": "Associate Dean Of Students ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Dave",
+            "lastName": "King",
+            "department": "Housing",
+            "title": "Housing Director ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Ariel",
+            "lastName": "Palomares",
+            "department": "Phy Plant--trades",
+            "title": "Facility Maintenance Worker 3 - Lead ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Lindsey",
+            "lastName": "Connolly",
+            "department": "Athletics Administration",
+            "title": "Asst Coach-track And Field/cross Country Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Joy",
+            "lastName": "Johnson",
+            "department": "Oca",
+            "title": "Oca Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Raquel",
+            "lastName": "Chelala",
+            "department": "Phy Plant--custodial",
+            "title": "Custodian ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Colleen",
+            "lastName": "Atkinson",
+            "department": "Campus Pastors Office",
+            "title": "Chapel Coordinator/assistant To The Campus Pastor ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Angela",
+            "lastName": "D'Amour",
+            "department": "Office Of Campus Life",
+            "title": "Director Of Campus Life ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "David",
+            "lastName": "Mendeas",
+            "department": "Phy Plant--grounds",
+            "title": "Groundskeeper ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Julie",
+            "lastName": "Sheets",
+            "department": "Kinesiology",
+            "title": "Instructor Of Kinesiology ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Diane",
+            "lastName": "Ziliotto",
+            "department": "Library",
+            "title": "Special Collections Librarian ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Jeff",
+            "lastName": "Azain",
+            "department": "Athletics Administration",
+            "title": "Assistant Director Of Warrior Sports ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Zak",
+            "lastName": "Erving",
+            "department": "Art",
+            "title": "Instructor Of Art ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Aleks",
+            "lastName": "Vertsekha",
+            "department": "Phy Plant--trades",
+            "title": "Facility Maintenance Worker 3 ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "John",
+            "lastName": "Housh",
+            "department": "Phy Plant--grounds",
+            "title": "Ornamental Landscaper ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Linnie",
+            "lastName": "Avila",
+            "department": "Admissions",
+            "title": "Assistant To Dean Of Admissions ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Amanda",
+            "lastName": "Sparkman",
+            "department": "Biology",
+            "title": "Assistant Professor Of Biology ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Larry",
+            "lastName": "Shennum",
+            "department": "Phy Plant--grounds",
+            "title": "Groundskeeper ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Paula",
+            "lastName": "Hatley",
+            "department": "Music",
+            "title": "Choral Accompanist ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Richard",
+            "lastName": "Burnweit",
+            "department": "Library",
+            "title": "Interlibrary Loan Manager ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Brad",
+            "lastName": "Berky",
+            "department": "Westmont In San Francisco",
+            "title": "Assistant Professor Of Urban Studies ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Arlyne",
+            "lastName": "Sargent",
+            "department": "Provost",
+            "title": "Instructor",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Chris",
+            "lastName": "Maes",
+            "department": "P",
+            "title": "Phy Plant--public Safety ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Igor",
+            "lastName": "Rozhko",
+            "department": "Information Technology",
+            "title": "Network Manager ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Vasily",
+            "lastName": "Mitsuk",
+            "department": "Phy Plant--shuttle",
+            "title": "Shuttle Driver 24.5 Hrs ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Marcia",
+            "lastName": "Pearson",
+            "department": "P",
+            "title": "Phy Plant--public Safety ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Sandy",
+            "lastName": "Mezzio",
+            "department": "Health Center",
+            "title": "Physician's Assistant ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Ari",
+            "lastName": "Horanage",
+            "department": "Phy Plant--shuttle",
+            "title": "Shuttle Driver - 9m ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Nancy",
+            "lastName": "Phinney",
+            "department": "College Communications",
+            "title": "Director Of College Communications ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Alex",
+            "lastName": "Lillenberg",
+            "department": "Westmont Downtown",
+            "title": "Project Coordinator ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Pam",
+            "lastName": "Beebe",
+            "department": "President's Office",
+            "title": "President's Spouse ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Amber",
+            "lastName": "Moran",
+            "department": "Education And Liberal Studies",
+            "title": "Instructor Of Education ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Patricia",
+            "lastName": "Rocha",
+            "department": "Phy Plant--custodial",
+            "title": "Custodian ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Kati",
+            "lastName": "Buehler",
+            "department": "Gift Planning",
+            "title": "Senior Director Of Gift Planning ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Doug",
+            "lastName": "Jones",
+            "department": "Finance",
+            "title": "Vice President For Finance ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Eliane",
+            "lastName": "Yochum",
+            "department": "English",
+            "title": "Secretary - English & Modern Languages ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Steven",
+            "lastName": "Gross",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Stephen",
+            "lastName": "Zylstra",
+            "department": "Philosophy",
+            "title": "Instructor Of Philosophy ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Melissa",
+            "lastName": "Christensen",
+            "department": "Off Campus Programs",
+            "title": "Ocp Program Assistant ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Joyelle",
+            "lastName": "Ball",
+            "department": "English",
+            "title": "Instructor Of English ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Crys",
+            "lastName": "Yem",
+            "department": "K",
+            "title": "Admissions ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "James",
+            "lastName": "Connolly",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Mariah",
+            "lastName": "Velasquez",
+            "department": "Provost",
+            "title": "Program Coordinator Dwc ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Domingo",
+            "lastName": "Solorzano",
+            "department": "Phy Plant--grounds",
+            "title": "Irrigation Specialist ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Adelle",
+            "lastName": "Rodkey",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Candace",
+            "lastName": "Kim",
+            "department": "K",
+            "title": "Business Office ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Karen",
+            "lastName": "Sloan",
+            "department": "Physical Plant--admin",
+            "title": "Manager Of Office Operations, Automotive AndTransportation ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Alex",
+            "lastName": "Nizet",
+            "department": "Major Gifts",
+            "title": "Senior Development Director ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Adrienne",
+            "lastName": "Hicks",
+            "department": "Disability Services",
+            "title": "Disability Services-proctor ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Nick",
+            "lastName": "Murray",
+            "department": "Phy Plant--custodial",
+            "title": "Custodian ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Beth",
+            "lastName": "Whitcomb",
+            "department": "V",
+            "title": "Disability Services ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Silvia",
+            "lastName": "Rodarte",
+            "department": "Mathematics & Computer Science",
+            "title": "Secretary - Math/computer Science/physics ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "John",
+            "lastName": "Douglas",
+            "department": "Music",
+            "title": "Instructor Of Music ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Angela",
+            "lastName": "Carty",
+            "department": "Kinesiology",
+            "title": "Instructor Of Kinesiology ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Nicolasa",
+            "lastName": "Vargas Alcaraz",
+            "department": "Phy Plant--custodial",
+            "title": "Custodian ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Leslie",
+            "lastName": "Smith",
+            "department": "College Store",
+            "title": "Textbook Manager ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Joanne",
+            "lastName": "Gish",
+            "department": "College Store",
+            "title": "Assistant Director Of The College Store And MailingServices ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Ron",
+            "lastName": "Smith",
+            "department": "Sports Information",
+            "title": "Sports Information Director ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Kim",
+            "lastName": "Notehelfer",
+            "department": "Off Campus Programs",
+            "title": "Assistant - Office Of Global Education ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Jennifer",
+            "lastName": "Cooper",
+            "department": "Career Development And Calling",
+            "title": "Interim Career Counselor ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Bridget",
+            "lastName": "Quanstrom",
+            "department": "W",
+            "title": "Biology ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Paul",
+            "lastName": "Larson",
+            "department": "Business Office",
+            "title": "Controller ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Annette",
+            "lastName": "Richards",
+            "department": "Major Gifts",
+            "title": "Regional Director Of Development ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Jennifer",
+            "lastName": "Taylor",
+            "department": "Records",
+            "title": "Pt Student Support Counselor ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Michelle",
+            "lastName": "Hardley",
+            "department": "Records",
+            "title": "Registrar ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Steve",
+            "lastName": "Hodson",
+            "department": "M",
+            "title": "Music ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Melissa",
+            "lastName": "Ewart",
+            "department": "Education And Liberal Studies",
+            "title": "Instructor Of Education ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Marian",
+            "lastName": "Hollis",
+            "department": "Health Center",
+            "title": "Counseling And Health Center Assistant ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Marie",
+            "lastName": "Schoeff",
+            "department": "Art",
+            "title": "Instructor Of Art ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Jeff",
+            "lastName": "Aquilon",
+            "department": "Information Technology",
+            "title": "Director Of Academic & Institutional Technology ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Jesse",
+            "lastName": "Wheeler",
+            "department": "Kinesiology",
+            "title": "Instructor Of Kinesiology ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Jana Mayfield",
+            "lastName": "Mullen",
+            "department": "Library",
+            "title": "Information Literacy Librarian ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Mike",
+            "lastName": "Prather",
+            "department": "Phy Plant--public Safety",
+            "title": "Door & Hardware Specialist ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Lisa",
+            "lastName": "Vincent",
+            "department": "Conferences",
+            "title": "Conferences & Scheduling Coordinator ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Mark",
+            "lastName": "Sargent",
+            "department": "Provost",
+            "title": "Provost & Dean Of Faculty ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Rebekah",
+            "lastName": "Beveridge",
+            "department": "Admissions",
+            "title": "Admissions Events Coordinator - 9m ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Tom",
+            "lastName": "Beveridge",
+            "department": "Physical Plant",
+            "title": "Director Of Physical Plant ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Karen",
+            "lastName": "Jacobs",
+            "department": "Counseling Center",
+            "title": "Marriage & Family Therapist ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Diana",
+            "lastName": "Tessada",
+            "department": "Kinesiology",
+            "title": "Instructor Of Kinesiology ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Jon",
+            "lastName": "Young",
+            "department": "Housing",
+            "title": "Housing Director Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Rebecca",
+            "lastName": "Boa",
+            "department": "Office Of Campus Life",
+            "title": "Assistant Director Of Campus Life ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "James",
+            "lastName": "Holmes",
+            "department": "Mathematics & Computer Science",
+            "title": "Instructor Of Mathematics ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Bill",
+            "lastName": "Wright",
+            "department": "Administration",
+            "title": "Institutional Research Assistant Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Dawn",
+            "lastName": "Gendron",
+            "department": "Admissions",
+            "title": "Admissions Info System Administrator ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "David",
+            "lastName": "Rubio",
+            "department": "P",
+            "title": "Phy Plant--public Safety ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Eric",
+            "lastName": "Heidner",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Doug",
+            "lastName": "Conrad",
+            "department": "Academic Technology",
+            "title": "Director Of Academic Technology ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Kristi",
+            "lastName": "Cantrell",
+            "department": "Chemistry",
+            "title": "Assistant Professor Of Chemistry ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Emmy",
+            "lastName": "Brown",
+            "department": "Athletics Administration",
+            "title": "Asst Coach-track And Field/cross Country Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Brad",
+            "lastName": "Elliott",
+            "department": "Sound And Light",
+            "title": "Manager Of A/v Production, Sound & Light ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Alison",
+            "lastName": "Mitchell",
+            "department": "Foundation And Corp Relations",
+            "title": "Grant Writer Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Maury",
+            "lastName": "Hayashida",
+            "department": "Kinesiology",
+            "title": "Instructor Of Kinesiology ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Mona",
+            "lastName": "Motte",
+            "department": "Gift Planning",
+            "title": "Director Of Gift Planning ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "John",
+            "lastName": "Draper",
+            "department": "Risk Management",
+            "title": "Risk Management Coordinator Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Dave",
+            "lastName": "Odell",
+            "department": "Athletics Administration",
+            "title": "Athletic Director ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Jodi",
+            "lastName": "Smith",
+            "department": "Admissions",
+            "title": "Associate Dean Of Admissions ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Tovi",
+            "lastName": "Eliasen",
+            "department": "Athletics Administration",
+            "title": "Assistant Coach - Men's Soccer ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Elisabeth",
+            "lastName": "Gonella",
+            "department": "Counseling Center",
+            "title": "Marriage & Family Therapist ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Megan",
+            "lastName": "Stichter",
+            "department": "Economics And Business",
+            "title": "Instructor Of Economics/business ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Victoria",
+            "lastName": "Finlayson",
+            "department": "Theatre Arts",
+            "title": "Instructor Of Theatre Arts ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Jim",
+            "lastName": "Mullen",
+            "department": "P",
+            "title": "Phy Plant--trades ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Curtis",
+            "lastName": "Simpson",
+            "department": "Kinesiology",
+            "title": "Instructor Of Kinesiology ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Marilyn",
+            "lastName": "Jenks",
+            "department": "Biology",
+            "title": "Secretary - Biology ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Troy",
+            "lastName": "Harris",
+            "department": "Risk Management",
+            "title": "Assistant Vp For Institutional Resilience ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Keith",
+            "lastName": "Harris",
+            "department": "K",
+            "title": "Telecommunications ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Jennie",
+            "lastName": "Wood",
+            "department": "Career Development And Calling",
+            "title": "Career Counselor ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Gabby",
+            "lastName": "Lara",
+            "department": "Phy Plant--shuttle",
+            "title": "Shuttle Driver - 9m ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Ricardo",
+            "lastName": "Lara",
+            "department": "Phy Plant--grounds",
+            "title": "Groundskeeper ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Juan",
+            "lastName": "Angel",
+            "department": "Phy Plant--custodial",
+            "title": "Custodian ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Hugo",
+            "lastName": "Franco",
+            "department": "P",
+            "title": "Phy Plant--trades ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Heather",
+            "lastName": "Keaney",
+            "department": "Off Campus Programs",
+            "title": "Istanbul Semester Faculty ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Neil",
+            "lastName": "Di Maggio",
+            "department": "KM",
+            "title": "Research & Prospect Management ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Christen",
+            "lastName": "Foell",
+            "department": "Institute For The Liberal Arts",
+            "title": "Assistant Director Of The Gaede Institute ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Jennifer",
+            "lastName": "Salemann",
+            "department": "Records",
+            "title": "Records Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Memo",
+            "lastName": "Macias-Gil",
+            "department": "Phy Plant--trades",
+            "title": "Facility Maintenance Worker 2 ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Laura",
+            "lastName": "Walter",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Heather",
+            "lastName": "Bergthold",
+            "department": "Education And Liberal Studies",
+            "title": "Education Program Assistant ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Mary",
+            "lastName": "Logue",
+            "department": "Library",
+            "title": "Interim Director Library ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Ramon",
+            "lastName": "Gupta",
+            "department": "Economics And Business",
+            "title": "Instructor Of Economics/business ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Chris",
+            "lastName": "Rupp",
+            "department": "Art",
+            "title": "Collections Managers & Instructor Of Art ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Jose",
+            "lastName": "Velazquez",
+            "department": "Phy Plant--grounds",
+            "title": "Groundskeeper ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Isauro",
+            "lastName": "Perez",
+            "department": "Phy Plant--grounds",
+            "title": "Groundskeeper ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Greg",
+            "lastName": "Smith",
+            "department": "College Software",
+            "title": "Senior Web Developer/programmer ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Jim",
+            "lastName": "Reid",
+            "department": "Business Office",
+            "title": "Director Of Business Office Operations & Financial Report",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Kathy",
+            "lastName": "LeSage",
+            "department": "Kinesiology",
+            "title": "Assistant Professor Of Kinesiology Pt ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Sarah",
+            "lastName": "Jirek",
+            "department": "Sociology And Anthropology",
+            "title": "Assistant Professor Of Sociology ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Zak",
+            "lastName": "Landrum",
+            "department": "Advancement Services",
+            "title": "Senior Director Of Advancement Services ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Javier",
+            "lastName": "Guzman",
+            "department": "Phy Plant--trades",
+            "title": "Facility Maintenance Worker 2 ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Brent",
+            "lastName": "Green",
+            "department": "Phy Plant--shuttle",
+            "title": "Dial-a-ride Driver ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Jena",
+            "lastName": "Harris",
+            "department": "K",
+            "title": "Finance ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Ann",
+            "lastName": "Cavalli",
+            "department": "Athletics Administration",
+            "title": "Secretary - Athletics & Kinesiology ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Ruth",
+            "lastName": "Angelos",
+            "department": "VL",
+            "title": "Library ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Claire",
+            "lastName": "Cetti",
+            "department": "H",
+            "title": "Health And Counseling Centers ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Matthew",
+            "lastName": "Roy",
+            "department": "Music",
+            "title": "Instructor Of Music ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Jeff",
+            "lastName": "Sieck",
+            "department": "Advancement Services",
+            "title": "Advancement Services Specialist ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Karen",
+            "lastName": "Andrews",
+            "department": "Westmont In San Francisco",
+            "title": "Associate Director For Curriculum And Academic Development",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Mark",
+            "lastName": "Basham",
+            "department": "Athletics",
+            "title": "Head Coach, Men's Tennis ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Jonathan",
+            "lastName": "Palmquist",
+            "department": "Music",
+            "title": "Instructor Of Music ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Tito",
+            "lastName": "Paredes-Alfaro",
+            "department": "Provost",
+            "title": "Instructor ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Kirsten",
+            "lastName": "Moore",
+            "department": "Athletics Administration",
+            "title": "Associate Athletics Director & Head Coach Women'sBasketball ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Amanda",
+            "lastName": "Elliott",
+            "department": "Sound And Light",
+            "title": "Sound & Light - Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Scott",
+            "lastName": "Craig",
+            "department": "College Communications",
+            "title": "Manager Of Media Relations ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Cindy",
+            "lastName": "Courtney",
+            "department": "Kinesiology",
+            "title": "Instructor Of Kinesiology ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Faith",
+            "lastName": "Hakimian",
+            "department": "Phy Plant--college Veh Pool",
+            "title": "Pt Fleet Transportation Coordinator ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Paul",
+            "lastName": "Mori",
+            "department": "Music",
+            "title": "Professor Of Music - Pt ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Nichole",
+            "lastName": "Dechaine",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Egle",
+            "lastName": "Januleviciute",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Gerrie",
+            "lastName": "Fausett",
+            "department": "Education And Liberal Studies",
+            "title": "Instructor Of Education ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Ben",
+            "lastName": "Johnson",
+            "department": "College Communications",
+            "title": "Graphic Designer ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Rob",
+            "lastName": "Goodrow",
+            "department": "Athletics Administration",
+            "title": "Assistant Basketball Coach - Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Danielle",
+            "lastName": "Rogers",
+            "department": "Provost",
+            "title": "Pt Assistant To The Provost's Office ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Rodelio",
+            "lastName": "Callos",
+            "department": "Phy Plant--custodial",
+            "title": "Custodian ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Piano",
+            "lastName": "Paredes",
+            "department": "Phy Plant--custodial",
+            "title": "Custodian ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Patti",
+            "lastName": "Cook",
+            "department": "Athletics Administration",
+            "title": "Head Coach Women's Volleyball ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Aaron",
+            "lastName": "Sizer",
+            "department": "Institute For The Liberal Arts",
+            "title": "Assistant Director Of The Gaede Institute ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Ruby Jeanne",
+            "lastName": "Shelton",
+            "department": "DH",
+            "title": "Social Sciences ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Cory",
+            "lastName": "Steffen",
+            "department": "Art",
+            "title": "Instructor Of Art ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Heather",
+            "lastName": "Levin",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Teri",
+            "lastName": "Bradford",
+            "department": "Alumni And Parent Relations",
+            "title": "Senior Director Of Alumni And Parent Relations ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Ginny",
+            "lastName": "Murray",
+            "department": "Physical Plant",
+            "title": "Office Assistant - Physical Plant - Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Julie",
+            "lastName": "Rubio",
+            "department": "KH",
+            "title": "Advancement Services ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Emily",
+            "lastName": "Sommermann",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Jane",
+            "lastName": "Wilson",
+            "department": "Education And Liberal Studies",
+            "title": "Associate Professor Of Education ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Joan",
+            "lastName": "Wimberly",
+            "department": "Public Events",
+            "title": "Director Of Public Events ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Barb",
+            "lastName": "Pointer",
+            "department": "Off Campus Programs",
+            "title": "Assistant Director Of Global Education ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Sharon",
+            "lastName": "Willis",
+            "department": "Health Center",
+            "title": "Nurse Practitioner ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Wendy",
+            "lastName": "Ludwick",
+            "department": "K",
+            "title": "Public Events ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Judy",
+            "lastName": "Williams",
+            "department": "Kinesiology",
+            "title": "Pt Kinesiology Secretary ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Lorinda",
+            "lastName": "Dry",
+            "department": "Alumni And Parent Relations",
+            "title": "Assistant Director Alumni & Parent Relations ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Kay",
+            "lastName": "Howell",
+            "department": "Mexico",
+            "title": "Mexico Semester Administrator ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Julian",
+            "lastName": "Saavedra",
+            "department": "Phy Plant--trades",
+            "title": "Facility Maintenance Worker 2 ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "David",
+            "lastName": "Hernandez",
+            "department": "Health Center",
+            "title": "Director Of Health Services ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Esther",
+            "lastName": "Gilbert",
+            "department": "Business Office",
+            "title": "Accountant & Payroll Manager ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "John",
+            "lastName": "Wilder",
+            "department": "English",
+            "title": "Professor Of English - Pt ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Karen",
+            "lastName": "Cornelius",
+            "department": "Admissions",
+            "title": "Application Coordinator ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Olympia",
+            "lastName": "Hugo",
+            "department": "K",
+            "title": "Admissions ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Chris",
+            "lastName": "Call",
+            "department": "Administration",
+            "title": "Vp For Admin, Research, Planning & Implementation ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Tiffany",
+            "lastName": "Lobner",
+            "department": "Office Of Student Life",
+            "title": "Administrative Assistant To The Vp For Sl ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Melinda",
+            "lastName": "Harriman",
+            "department": "Conferences",
+            "title": "Director Of Conference Services & Campus Scheduling ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Toya",
+            "lastName": "Cooper",
+            "department": "K",
+            "title": "Legal Counsel ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Ron",
+            "lastName": "Rusk",
+            "department": "P",
+            "title": "Phy Plant--custodial ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Audra",
+            "lastName": "Pearce",
+            "department": "Advancement Services",
+            "title": "Gift Processing Specialist ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Bill",
+            "lastName": "Groeneveld",
+            "department": "P",
+            "title": "Procurement/aux Srvcs ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Vitaliy",
+            "lastName": "Skovorodko",
+            "department": "Phy Plant--automotive",
+            "title": "Facility Maintenance Worker 3/auto Mechanic ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Anna",
+            "lastName": "Jordan",
+            "department": "English",
+            "title": "Instructor Of English ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Michael",
+            "lastName": "Vinogradski",
+            "department": "Phy Plant--trades",
+            "title": "Facility Maintenance Worker 2 ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Viktor",
+            "lastName": "Markov",
+            "department": "Phy Plant--trades",
+            "title": "Facility Maintenance Worker 3 ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Joel",
+            "lastName": "Patterson",
+            "department": "Campus Pastors Office",
+            "title": "Director Of Music And Worship ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Julissa",
+            "lastName": "Delgado",
+            "department": "Career Development And Calling",
+            "title": "Student Employment And Office Management ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Stu",
+            "lastName": "Cleek",
+            "department": "Residence Life",
+            "title": "Associate Dean For Residence Life ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+
+        {
+            "firstName": "Ben",
+            "lastName": "Patterson",
+            "department": "Campus Pastors Office",
+            "title": "Campus Pastor ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Debbie",
+            "lastName": "Price",
+            "department": "Business Office",
+            "title": "Senior Accountant ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Sharon",
+            "lastName": "Lien",
+            "department": "Financial Aid",
+            "title": "Financial Aid Assistant ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Rachel",
+            "lastName": "Winslow",
+            "department": "Off Campus Programs",
+            "title": "Director Of Center Social Entrep ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Ryan",
+            "lastName": "Ethington",
+            "department": "Art",
+            "title": "Instructor Of Art ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Jason",
+            "lastName": "Cha",
+            "department": "Intercultural Programs",
+            "title": "Director Of Intercultural Programs ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Emil",
+            "lastName": "Cristescu",
+            "department": "Music",
+            "title": "Instructor Of Music ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Laurence",
+            "lastName": "Young",
+            "department": "Music",
+            "title": "Instructor Of Music ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Ileathern",
+            "lastName": "McLeod",
+            "department": "Music",
+            "title": "Instructor Of Music ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Nancy",
+            "lastName": "Everest",
+            "department": "College Software",
+            "title": "Applications And Systems Developer/analyst ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Danielle",
+            "lastName": "Borrajo",
+            "department": "College Store",
+            "title": "Bookstore Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "William",
+            "lastName": "Farrell",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Keith",
+            "lastName": "Erickson",
+            "department": "Music",
+            "title": "Music Department Coordinator ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Reed",
+            "lastName": "Sheard",
+            "department": "Office Of College Advancement",
+            "title": "Vice President For Advancement & Information Technology ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Raymond",
+            "lastName": "Valencia",
+            "department": "Reprographics",
+            "title": "Document Services Coordinator - Repro ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Maria",
+            "lastName": "Rocha",
+            "department": "Phy Plant--custodial",
+            "title": "Custodian ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Judy",
+            "lastName": "Larson",
+            "department": "Museum Of Art",
+            "title": "Director Of Westmont Ridley Tree Museum ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Guadalupe",
+            "lastName": "Navarro",
+            "department": "Phy Plant--custodial",
+            "title": "Custodian ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Anna",
+            "lastName": "Fletcher",
+            "department": "Residence Life",
+            "title": "Resident Director ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Gustavo",
+            "lastName": "Hidalgo",
+            "department": "Phy Plant--custodial",
+            "title": "Utility Crew-lead ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Melanie",
+            "lastName": "Rogers",
+            "department": "K",
+            "title": "Records ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Helen",
+            "lastName": "Park",
+            "department": "K",
+            "title": "President's Office ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Victoria",
+            "lastName": "Leon",
+            "department": "Philosophy",
+            "title": "Secretary - Philosophy & Religious Studies ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Joshua",
+            "lastName": "Priester",
+            "department": "Athletics Administration",
+            "title": "Asst Coach-track And Field/cross Country Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Silvio",
+            "lastName": "Vazquez",
+            "department": "Admissions",
+            "title": "Dean Of Admissions ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Craig",
+            "lastName": "Thomas",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Jenny",
+            "lastName": "Martinez",
+            "department": "Off Campus Programs",
+            "title": "Jerusalem Sem Prog Assistant ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Mary",
+            "lastName": "Dill",
+            "department": "Business Office",
+            "title": "Payroll Assistant ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Katherine",
+            "lastName": "Christensen",
+            "department": "Museum Of Art",
+            "title": "Museum Education Coordinator Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Ellie",
+            "lastName": "Johnson",
+            "department": "Athletics",
+            "title": "Head Coach, Women's Tennis ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Robert",
+            "lastName": "Ruiz",
+            "department": "Athletics Administration",
+            "title": "Head Coach Of Baseball And Associate Athletic Director ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Kelsey",
+            "lastName": "Palmer",
+            "department": "Westmont In San Francisco",
+            "title": "Adjunct Professor Of Urban Studies ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Alexis",
+            "lastName": "Anderson",
+            "department": "Kinesiology",
+            "title": "Instructor Of Kinesiology ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Tony",
+            "lastName": "Cougoule",
+            "department": "Athletics Administration",
+            "title": "Assistant Baseball Coach & Game Manager ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Andrew",
+            "lastName": "Radford",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Michelle",
+            "lastName": "Starrh",
+            "department": "Music",
+            "title": "Music Department Assistant ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Beth",
+            "lastName": "Lee",
+            "department": "English",
+            "title": "Instructor Of English ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Paige",
+            "lastName": "Tautz",
+            "department": "Theatre Arts",
+            "title": "Instructor Of Theatre Arts ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Tatiana",
+            "lastName": "Nazarenko",
+            "department": "K",
+            "title": "Provost ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Matt",
+            "lastName": "Browne",
+            "department": "Admissions",
+            "title": "Admissions Counselor ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Paige",
+            "lastName": "Clenney",
+            "department": "Intercultural Programs",
+            "title": "Campus Life And Intercultural Program Assistant Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Shannon",
+            "lastName": "Balram",
+            "department": "Residence Life",
+            "title": "Assistant Director Of Residence Life ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Kailie",
+            "lastName": "Barnes",
+            "department": "Westmont In San Francisco",
+            "title": "Urban Ra ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Josiah",
+            "lastName": "Taylor",
+            "department": "Athletic Trainer",
+            "title": "Rehabilitation Trainer Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Sean",
+            "lastName": "Smith",
+            "department": "Financial Aid",
+            "title": "Director Of Financial Aid ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Marcia",
+            "lastName": "Vogler",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "John",
+            "lastName": "Sant' Ambrogio",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Zac",
+            "lastName": "Smith",
+            "department": "College Communications",
+            "title": "Web Content Editor ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Joel",
+            "lastName": "Banez",
+            "department": "College Software",
+            "title": "Director Of College Software ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Lori Ann",
+            "lastName": "Banez",
+            "department": "Career Development And Calling",
+            "title": "Employer Relations Specialist ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Michael",
+            "lastName": "Evans",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Sophie",
+            "lastName": "Judd",
+            "department": "K",
+            "title": "Admissions ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Katie",
+            "lastName": "Mukai",
+            "department": "Psychology",
+            "title": "Psychology Lab Coordinator ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Morgan",
+            "lastName": "McCurry",
+            "department": "K",
+            "title": "Annual Giving ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Jim",
+            "lastName": "Wright",
+            "department": "Off Campus Programs",
+            "title": "Istanbul Semester Faculty ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Kai",
+            "lastName": "Sheets",
+            "department": "Information Technology",
+            "title": "It User Services Specialist ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Nikki",
+            "lastName": "Dressler",
+            "department": "Chemistry",
+            "title": "Instructor Of Chemistry ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Michael",
+            "lastName": "Everest",
+            "department": "Chemistry",
+            "title": "Professor Of Chemistry ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Kaci",
+            "lastName": "Mexico",
+            "department": "Athletics Administration",
+            "title": "Assistant To The Sports Information Director Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Kevin",
+            "lastName": "Marr",
+            "department": "Mailing Services",
+            "title": "Mailing Services Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Sarah",
+            "lastName": "Gowing",
+            "department": "Risk Management",
+            "title": "Institutional Resilience Coordinator Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Kara",
+            "lastName": "Lopez",
+            "department": "Financial Aid",
+            "title": "Assistant Director Of Financial Aid ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Rachel",
+            "lastName": "Rowenhorst",
+            "department": "Admissions",
+            "title": "Admissions Counselor ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Jonathan",
+            "lastName": "Combs",
+            "department": "Athletics Administration",
+            "title": "Assistant Coach - Baseball ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Adae",
+            "lastName": "Rehmke",
+            "department": "Admissions",
+            "title": "Information Systems Assistant - 9 Month ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Shane",
+            "lastName": "Rowan",
+            "department": "Athletics Administration",
+            "title": "Asst Coach-track And Field/cross Country Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Rosangel",
+            "lastName": "Rodriguez",
+            "department": "College Store",
+            "title": "Bookstore Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Martha",
+            "lastName": "Stevens",
+            "department": "Phy Plant--custodial",
+            "title": "Custodian - Pt ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Graeme",
+            "lastName": "Petterson",
+            "department": "Phy Plant--shuttle",
+            "title": "Pt Shuttle Driver - 8hrs/wk ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Susie",
+            "lastName": "Willett",
+            "department": "Donor Relations",
+            "title": "Director Of Donor Relations ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Beth",
+            "lastName": "Vidmar",
+            "department": "Athletic Trainer",
+            "title": "Assistant Athletic Trainer Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Robert",
+            "lastName": "Rockabrand",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Sara",
+            "lastName": "Rockabrand",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Alisa",
+            "lastName": "Unell",
+            "department": "Swim Club",
+            "title": "Lifeguard Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Gary",
+            "lastName": "Moon",
+            "department": "Provost",
+            "title": "Dir Of Martin Inst For Christianity & Culture & Dallas ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Sheri",
+            "lastName": "Noble",
+            "department": "Disability Services",
+            "title": "Coordinator Of Disability Services ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Andrea",
+            "lastName": "Di Maggio",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Selena",
+            "lastName": "English",
+            "department": "Athletics Administration",
+            "title": "Assistant Women's Basketball Coach & Recruitment Coordinator",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "John",
+            "lastName": "Unzueta",
+            "department": "Admissions",
+            "title": "Admissions Counselor ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Anna",
+            "lastName": "Darby",
+            "department": "Records",
+            "title": "Records Systems Specialist ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Kathryn",
+            "lastName": "Mendenhall",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Christina",
+            "lastName": "Sanchez",
+            "department": "Theatre Arts",
+            "title": "Instructor Of Theatre Arts ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Patricia",
+            "lastName": "Noormand",
+            "department": "Art",
+            "title": "Pt Art Department Secretary ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Luis",
+            "lastName": "Lopez",
+            "department": "Phy Plant--custodial",
+            "title": "Custodian - Pt ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Andrew",
+            "lastName": "Meyer",
+            "department": "Auxillary Services",
+            "title": "Auxiliary Services Assistant ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Connor",
+            "lastName": "Riva",
+            "department": "Information Technology",
+            "title": "Server, Storage & Virtual Environment Network Administrator ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Sara",
+            "lastName": "Scott",
+            "department": "Psychology",
+            "title": "Psychology Department Secretary Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Lauren",
+            "lastName": "Sende",
+            "department": "Athletics",
+            "title": "Interim Athletics Assistant ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Grace",
+            "lastName": "Spadoro",
+            "department": "Administration",
+            "title": "Pt Admin Asst. To The Vp For Admin & Planning ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Maria",
+            "lastName": "Rivera",
+            "department": "Kinesiology",
+            "title": "Instructor Of Kinesiology ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Karli",
+            "lastName": "Holman",
+            "department": "Mathematics & Computer Science",
+            "title": "Statistics Teaching Assistant Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Anthony",
+            "lastName": "Ybarra",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Michael",
+            "lastName": "Guzman",
+            "department": "Student Life",
+            "title": "Campus Life - Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Michael",
+            "lastName": "Lieberman",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Armando",
+            "lastName": "Maldonado",
+            "department": "Phy Plant--custodial",
+            "title": "Custodian ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Angela",
+            "lastName": "Lowe",
+            "department": "Office Of Student Life",
+            "title": "Part Time Student Life Assistant ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Wilton",
+            "lastName": "Quintero",
+            "department": "Physical Plant",
+            "title": "Part-time Auto Shop Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Kristin",
+            "lastName": "Idaszak",
+            "department": "Theatre Arts",
+            "title": "Instructor Of Theatre Arts ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Edward",
+            "lastName": "Song",
+            "department": "Philosophy",
+            "title": "Associate Professor Of Philosophy ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Nathan",
+            "lastName": "Huff",
+            "department": "Art",
+            "title": "Assistant Professor Of Art ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Peter",
+            "lastName": "Hansen",
+            "department": "Residence Life",
+            "title": "Resident Director ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Roni",
+            "lastName": "Miranda",
+            "department": "Admissions",
+            "title": "Admissions Assistant ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Joanne",
+            "lastName": "Kim",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Casey",
+            "lastName": "Schapper",
+            "department": "Athletics Administration",
+            "title": "Assistant Coach - Baseball ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Cynthia",
+            "lastName": "Toms",
+            "department": "Kinesiology",
+            "title": "Associate Professor Of Kinesiology ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Chantel",
+            "lastName": "Cappuccilli",
+            "department": "Athletics Administration",
+            "title": "Head Women's Soccer Coach ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Trevor",
+            "lastName": "Handy",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Jordan",
+            "lastName": "Bentley",
+            "department": "Financial Aid",
+            "title": "Financial Aid Technology Specialist Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Patrick",
+            "lastName": "Gilbert",
+            "department": "Art",
+            "title": "Instructor Of Art ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Bradford",
+            "lastName": "Sargent",
+            "department": "Athletics Administration",
+            "title": "Assistant To The Sports Information Director Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "John",
+            "lastName": "Knecht",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Meghan",
+            "lastName": "Vincent",
+            "department": "Conferences",
+            "title": "Conferences Office Support Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Edee",
+            "lastName": "Schulze",
+            "department": "Office Of Student Life",
+            "title": "Vp For Student Life/dean Of Students ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Rachel",
+            "lastName": "Fabian",
+            "department": "Residence Life",
+            "title": "Resident Director ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Nicole",
+            "lastName": "Wald",
+            "department": "Education And Liberal Studies",
+            "title": "Instructor Of Education ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Meghan",
+            "lastName": "Morelli",
+            "department": "Kinesiology",
+            "title": "Assistant Professor Of Kinesiology Pt ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Melissa",
+            "lastName": "Lima",
+            "department": "Residence Life",
+            "title": "Resident Director ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Theresa",
+            "lastName": "Covich",
+            "department": "English",
+            "title": "Instructor Of English ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Lauren",
+            "lastName": "Kelley",
+            "department": "Library",
+            "title": "Outreach And Instruction Librarian ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Yuri",
+            "lastName": "Okahana",
+            "department": "Theatre Arts",
+            "title": "Visiting Artist ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Mary Pat",
+            "lastName": "Whitney",
+            "department": "Advancement Services",
+            "title": "Advancement Special Events Manager ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Dan",
+            "lastName": "Thomas",
+            "department": "Office Of College Advancement",
+            "title": "Assistant Vice President Of Advancement ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Thomas",
+            "lastName": "Fitzsimons",
+            "department": "Athletics Administration",
+            "title": "Asst Coach-track And Field/cross Country Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Angela",
+            "lastName": "Miller",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Eric",
+            "lastName": "Nelson",
+            "department": "Counseling Center",
+            "title": "Director Of The Counseling Center ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Liz",
+            "lastName": "Robertson",
+            "department": "Residence Life",
+            "title": "Resident Director ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Henry",
+            "lastName": "Michaels",
+            "department": "Music",
+            "title": "Instructor Of Music ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Catherine",
+            "lastName": "Del Russo",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Alexander",
+            "lastName": "Cameron",
+            "department": "Conferences",
+            "title": "Event Services Manager ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Cole",
+            "lastName": "Schmit",
+            "department": "Athletics Administration",
+            "title": "Assistant Coach - Women's Soccer ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Ruth",
+            "lastName": "McGolpin",
+            "department": "Athletics Administration",
+            "title": "Assistant Coach - Women's Volleyball ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Jeong-Ah",
+            "lastName": "Ryu",
+            "department": "Music",
+            "title": "Choral Accompanist ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Leticia",
+            "lastName": "Ortega",
+            "department": "Phy Plant--custodial",
+            "title": "Custodian ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Daniel",
+            "lastName": "Garcia",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "John",
+            "lastName": "Gallegos",
+            "department": "Phy Plant--custodial",
+            "title": "Custodian ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Mike",
+            "lastName": "McKinniss",
+            "department": "Admissions",
+            "title": "Associate Director Of Admissions For Operations ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Maria",
+            "lastName": "Perez",
+            "department": "Phy Plant--custodial",
+            "title": "Custodian - Pt ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Sarah",
+            "lastName": "Skipper",
+            "department": "Athletics Administration",
+            "title": "Asst Coach-track And Field/cross Country Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Joanne",
+            "lastName": "Thompson",
+            "department": "Education And Liberal Studies",
+            "title": "Instructor Of Education ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Brad",
+            "lastName": "Robertson",
+            "department": "Office Of Campus Life",
+            "title": "Interim Assistant Director Of Campus Life ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Daniel",
+            "lastName": "Martony",
+            "department": "Athletics Administration",
+            "title": "Assistant Coach - Baseball ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Thomas",
+            "lastName": "Joyce",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Alexis",
+            "lastName": "Barrett",
+            "department": "Human Resources",
+            "title": "Human Resources Assistant ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Addie",
+            "lastName": "Smith",
+            "department": "Institute For The Liberal Arts",
+            "title": "Assistant For The Gaede Institute ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Austin",
+            "lastName": "Scirratt",
+            "department": "Mathematics & Computer Science",
+            "title": "Assistant Professor Of Mathematics ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Edward",
+            "lastName": "Macker",
+            "department": "English",
+            "title": "Instructor Of English ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Amanda",
+            "lastName": "Girdler",
+            "department": "Advancement Services",
+            "title": "Advancement Assistant ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Kim",
+            "lastName": "Shifley",
+            "department": "Alumni And Parent Relations",
+            "title": "Alumni & Parent Relations/annual Giving Assistant ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Stevan",
+            "lastName": "Pekovich",
+            "department": "Biology",
+            "title": "Assistant Professor Of Biology ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Drew",
+            "lastName": "Boa",
+            "department": "Telecommunications",
+            "title": "Network Operations Specialist ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Sandra",
+            "lastName": "Kenny",
+            "department": "Psychology",
+            "title": "Instructor Of Psychology ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Tori",
+            "lastName": "O'Brien",
+            "department": "Provost",
+            "title": "Assistant And Livetext Coordinator Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Cheryl",
+            "lastName": "Smith",
+            "department": "D",
+            "title": "Communication Studies ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Linda",
+            "lastName": "DiFiore",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Kristen",
+            "lastName": "Leichty",
+            "department": "Westmont In San Francisco",
+            "title": "Assistant Director Of Operations-temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Dawna",
+            "lastName": "Cunha",
+            "department": "Counseling Center",
+            "title": "Postdoctoral Fellow ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Melanie",
+            "lastName": "Bales",
+            "department": "Theatre Arts",
+            "title": "Instructor Of Theatre Arts ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Lito",
+            "lastName": "Garcia",
+            "department": "Education And Liberal Studies",
+            "title": "Instructor Of Education ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Michael",
+            "lastName": "Lewis",
+            "department": "Kinesiology",
+            "title": "Instructor Of Kinesiology ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Kim",
+            "lastName": "Pendleton",
+            "department": "Library",
+            "title": "Research Help Desk Librarian Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Amy",
+            "lastName": "Roemelen",
+            "department": "Records",
+            "title": "Assistant Registrar ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "William",
+            "lastName": "Boyd",
+            "department": "Phy Plant--public Safety",
+            "title": "Public Safety Officer - 12m ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Selvi",
+            "lastName": "Ersoy",
+            "department": "Biology",
+            "title": "Instructor Of Biology ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Ira",
+            "lastName": "Glansbeek",
+            "department": "Music",
+            "title": "Instructor Of Private Lessons ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Naomi",
+            "lastName": "Smith",
+            "department": "College Store",
+            "title": "Bookstore Temp ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Sarah",
+            "lastName": "Douglas",
+            "department": "Psychology",
+            "title": "Instructor Of Psychology ",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Jackson",
+            "lastName": "Wagner",
+            "department": "Off Campus Programs",
+            "title": "Jerusalem Sem Prog Assistant ",
+            "source": "",
+            "image": "",
+            "duration": 0
         }
     ]
 }
