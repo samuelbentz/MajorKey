@@ -3272,8 +3272,17 @@
             "firstName": "Shannon",
             "lastName": "Balram",
             "department": "Residence Life",
-            "title": "Assistant Director Of Residence Life ",
-            "source": "",
+            "title": "Director Of Residence Life",
+            "source": "http://www.westmont.edu/_offices/residence_life/ShannonBalram.html",
+            "image": "http://www.westmont.edu/_offices/residence_life/images/Shannon_Balram_144x216",
+            "duration": 0
+        },
+        {
+            "firstName": "Dan",
+            "lastName": "Taylor",
+            "department": "Residence Life",
+            "title": "Assistant Director Of Residence Life",
+            "source": "http://www.westmont.edu/_offices/residence_life/residence-life-staff.html",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
         },
