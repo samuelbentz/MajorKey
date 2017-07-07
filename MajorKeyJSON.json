@@ -1,3 +1,4 @@
+
 {
     "faculty": [
         {
@@ -385,78 +386,6 @@
             "title": "Faculty",
             "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_academics/departments/biology/uploads/2006/08/Schloss_Web.jpg",
-            "duration": 8
-        },
-        {
-            "firstName": "Michael",
-            "lastName": "Everest",
-            "department": "Chemistry",
-            "title": "Faculty",
-            "source": "http://www.westmont.edu/_academics/",
-            "image": "http://www.westmont.edu/_academics/departments/chemistry/images/Michael_Everest1c.JPG",
-            "duration": 8
-        },
-        {
-            "firstName": "Kristi",
-            "lastName": "Lazar Cantrell",
-            "department": "Chemistry",
-            "title": "Faculty",
-            "source": "http://www.westmont.edu/_academics/",
-            "image": "http://www.westmont.edu/_academics/departments/chemistry/images/Kristi-L-2a_001.JPG",
-            "duration": 8
-        },
-        {
-            "firstName": "Stephen",
-            "lastName": "Contakes",
-            "department": "Chemistry",
-            "title": "Faculty",
-            "source": "http://www.westmont.edu/_academics/",
-            "image": "http://www.westmont.edu/_academics/departments/chemistry/images/contakesstephen1.jpg",
-            "duration": 8
-        },
-        {
-            "firstName": "Allan",
-            "lastName": "Nishimura",
-            "department": "Chemistry",
-            "title": "Faculty",
-            "source": "http://www.westmont.edu/_academics/",
-            "image": "http://www.westmont.edu/_academics/departments/chemistry/uploads/2006/11/nishimura_allan_web.jpg",
-            "duration": 8
-        },
-        {
-            "firstName": "David",
-            "lastName": "Marten",
-            "department": "Chemistry",
-            "title": "Faculty",
-            "source": "http://www.westmont.edu/_academics/",
-            "image": "http://www.westmont.edu/_academics/departments/chemistry/uploads/2006/11/marten_david_web.jpg",
-            "duration": 8
-        },
-        {
-            "firstName": "Amanda",
-            "lastName": "Silberstein",
-            "department": "Chemistry",
-            "title": "Faculty",
-            "source": "http://www.westmont.edu/_academics/",
-            "image": "http://www.westmont.edu/_academics/departments/chemistry/images/Silberstein-Amanda-505x758.jpg",
-            "duration": 8
-        },
-        {
-            "firstName": "Carrie",
-            "lastName": "Stein Hill",
-            "department": "Chemistry",
-            "title": "Faculty",
-            "source": "http://www.westmont.edu/_academics/",
-            "image": "http://www.westmont.edu/_academics/departments/chemistry/images/Carrie_002.jpg",
-            "duration": 8
-        },
-        {
-            "firstName": "Niva",
-            "lastName": "Tro",
-            "department": "Chemistry",
-            "title": "Faculty",
-            "source": "http://www.westmont.edu/_academics/",
-            "image": "http://www.westmont.edu/_academics/departments/chemistry/images/tro_nivaldo_web.jpg",
             "duration": 8
         },
         {
@@ -1099,15 +1028,6 @@
             "duration": 0
         },
         {
-            "firstName": "Heidi",
-            "lastName": "Henes-Van Bergen",
-            "department": "Chemistry",
-            "title": "Faculty",
-            "source": "http://www.westmont.edu/_academics/",
-            "image": "http://www.westmont.edu/_academics/departments/chemistry/images/henes_vanbergen_heidi_web_004.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Erin",
             "lastName": "Shaffer",
             "department": "Counseling Center",
@@ -1258,15 +1178,6 @@
             "title": "Chapel Coordinator/assistant To The Campus Pastor ",
             "source": "",
             "image": "http://www.westmont.edu/_offices/campus_pastor/images/Colleen.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Angela",
-            "lastName": "D'Amour",
-            "department": "Office Of Campus Life",
-            "title": "Director Of Campus Life ",
-            "source": "",
-            "image": "http://www.westmont.edu/_offices/campuslife/images/square.jpg",
             "duration": 0
         },
         {
@@ -1918,15 +1829,6 @@
             "duration": 0
         },
         {
-            "firstName": "Rebecca",
-            "lastName": "Boa",
-            "department": "Office Of Campus Life",
-            "title": "Assistant Director Of Campus Life ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "James",
             "lastName": "Holmes",
             "department": "Mathematics & Computer Science",
@@ -1976,15 +1878,6 @@
             "lastName": "Conrad",
             "department": "Academic Technology",
             "title": "Director Of Academic Technology ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Kristi",
-            "lastName": "Cantrell",
-            "department": "Chemistry",
-            "title": "Assistant Professor Of Chemistry ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -3413,24 +3306,6 @@
             "duration": 0
         },
         {
-            "firstName": "Nikki",
-            "lastName": "Dressler",
-            "department": "Chemistry",
-            "title": "Instructor Of Chemistry ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Michael",
-            "lastName": "Everest",
-            "department": "Chemistry",
-            "title": "Professor Of Chemistry ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Kaci",
             "lastName": "Mexico",
             "department": "Athletics Administration",
@@ -3678,15 +3553,6 @@
             "lastName": "Sende",
             "department": "Athletics",
             "title": "Interim Athletics Assistant ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Grace",
-            "lastName": "Spadoro",
-            "department": "Administration",
-            "title": "Pt Admin Asst. To The Vp For Admin & Planning ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -4042,15 +3908,6 @@
             "duration": 0
         },
         {
-            "firstName": "Alexander",
-            "lastName": "Cameron",
-            "department": "Conferences",
-            "title": "Event Services Manager ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Cole",
             "lastName": "Schmit",
             "department": "Athletics Administration",
@@ -4136,15 +3993,6 @@
             "lastName": "Thompson",
             "department": "Education And Liberal Studies",
             "title": "Instructor Of Education ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Brad",
-            "lastName": "Robertson",
-            "department": "Office Of Campus Life",
-            "title": "Interim Assistant Director Of Campus Life ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -4390,6 +4238,141 @@
             "title": "Jerusalem Sem Prog Assistant ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Michael",
+            "lastName": "Everest",
+            "department": "Chemistry",
+            "title": "Faculty, Professor of Chemistry",
+            "source": "http://www.westmont.edu/_academics/departments/chemistry/MichaelEverest.html",
+            "image": "http://www.westmont.edu/_academics/departments/chemistry/images/Michael_Everest1c.JPG",
+            "duration": 8
+        },
+        {
+            "firstName": "Kristi",
+            "lastName": "Lazar Cantrell",
+            "department": "Chemistry",
+            "title": "Faculty, Assistant Professor Of Chemistry ",
+            "source": "http://www.westmont.edu/_academics/departments/chemistry/KristiLazar.html",
+            "image": "http://www.westmont.edu/_academics/departments/chemistry/images/Kristi-L-2a_001.JPG",
+            "duration": 8
+        },
+        {
+            "firstName": "Stephen",
+            "lastName": "Contakes",
+            "department": "Chemistry",
+            "title": "Faculty, Associate Professor of Chemistry",
+            "source": "http://www.westmont.edu/_academics/departments/chemistry/stephen-contakes.html",
+            "image": "http://www.westmont.edu/_academics/departments/chemistry/images/contakesstephen1.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Allan",
+            "lastName": "Nishimura",
+            "department": "Chemistry",
+            "title": "Faculty, Distinguished Professor Emeritus of Chemistry",
+            "source": "http://www.westmont.edu/_academics/departments/chemistry/allan-nishimura.html",
+            "image": "http://www.westmont.edu/_academics/departments/chemistry/uploads/2006/11/nishimura_allan_web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "David",
+            "lastName": "Martin",
+            "department": "Chemistry",
+            "title": "Faculty, Professor of Chemistry, Emeritus",
+            "source": "http://www.westmont.edu/_academics/departments/chemistry/david-marten.html",
+            "image": "http://www.westmont.edu/_academics/departments/chemistry/uploads/2006/11/marten_david_web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Amanda",
+            "lastName": "Silberstein",
+            "department": "Chemistry",
+            "title": "Faculty, Associate Professor of Chemistry",
+            "source": "http://www.westmont.edu/_academics/departments/chemistry/AmandaSilberstein.html",
+            "image": "http://www.westmont.edu/_academics/departments/chemistry/images/Silberstein-Amanda-505x758.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Carrie",
+            "lastName": "Stein Hill",
+            "department": "Chemistry",
+            "title": "Faculty, Instructor of Chemistry",
+            "source": "http://www.westmont.edu/_academics/departments/chemistry/CarrieHill.html",
+            "image": "http://www.westmont.edu/_academics/departments/chemistry/images/Carrie_002.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Niva",
+            "lastName": "Tro",
+            "department": "Chemistry",
+            "title": "Faculty, Professor of Chemistry",
+            "source": "http://www.westmont.edu/_academics/departments/chemistry/niva-tro.html",
+            "image": "http://www.westmont.edu/_academics/departments/chemistry/images/tro_nivaldo_web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Heidi",
+            "lastName": "Henes-Van Bergen",
+            "department": "Chemistry",
+            "title": "Staff, Administrative Assistant",
+            "source": "http://www.westmont.edu/_academics/departments/chemistry/other-faculty-and-staff.html",
+            "image": "http://www.westmont.edu/_academics/departments/chemistry/images/henes_vanbergen_heidi_web_004.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Nikki",
+            "lastName": "Dressler",
+            "department": "Chemistry",
+            "title": "Faculty, Instructor Of Chemistry ",
+            "source": "http://www.westmont.edu/_academics/departments/chemistry/other-faculty-and-staff.html",
+            "image": "http://www.westmont.edu/_academics/departments/chemistry/images/a_002.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Angela",
+            "lastName": "D'Amour",
+            "department": "Office Of Campus Life",
+            "title": "Staff, Director Of Campus Life ",
+            "source": "http://www.westmont.edu/_offices/campuslife/MeettheStaff.html",
+            "image": "http://www.westmont.edu/_offices/campuslife/images/square.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Alexander",
+            "lastName": "Cameron",
+            "department": "Office Of Campus Life",
+            "title": "Staff, Assistant Director Of Campus Life ",
+            "source": "http://www.westmont.edu/_offices/campuslife/MeettheStaff.html",
+            "image": "http://www.westmont.edu/conferences/images/ScreenShot2016-05-11at3.17.10PM_000.png",
+            "duration": 0
+        },
+        {
+            "firstName": "Brad",
+            "lastName": "Robertson",
+            "department": "Office Of Campus Life",
+            "title": "Staff, Interim Assistant Director Of Campus Life ",
+            "source": "http://www.westmont.edu/_offices/campuslife/MeettheStaff.html",
+            "image": "http://www.westmont.edu/_offices/campuslife/images/BradRobertson_000.JPG",
+            "duration": 0
+        },
+        {
+            "firstName": "Rebecca",
+            "lastName": "Boa",
+            "department": "Office Of Campus Life",
+            "title": "Staff, Assistant Director Of Campus Life ",
+            "source": "http://www.westmont.edu/_offices/campuslife/MeettheStaff.html",
+            "image": "http://www.westmont.edu/_offices/campuslife/images/D1X_9055_000.JPG",
+            "duration": 0
+        },
+        {
+            "firstName": "Grace",
+            "lastName": "Spadoro",
+            "department": "Office of Campus Life",
+            "title": "Staff, Campus Life Assistant",
+            "source": "http://www.westmont.edu/_offices/campuslife/MeettheStaff.html",
+            "image": "http://www.westmont.edu/_offices/campuslife/images/Grace2.0.JPG",
             "duration": 0
         }
     ]
