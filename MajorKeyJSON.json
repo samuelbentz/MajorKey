@@ -1,5 +1,3 @@
-
-
 {
     "faculty": [
         {
@@ -132,7 +130,7 @@
             "firstName": "Dave",
             "lastName": "Wolf",
             "department": "Kinesiology & Athletic",
-            "title": "Faculty & Staff",
+            "title": "Staff, Faculty",
             "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_academics/departments/kinesiology/uploads/Photos/wolf_david_web.jpg",
             "duration": 8
@@ -141,7 +139,7 @@
             "firstName": "John",
             "lastName": "Moore",
             "department": "Kinesiology & Athletic",
-            "title": "Faculty & Staff",
+            "title": "Staff, Faculty",
             "source": "http://www.westmont.edu/_academics/",
             "image": "http://athletics.westmont.edu/images/2015/8/10/Moore_John_2014_3271.jpg?width=300",
             "duration": 8
@@ -1005,7 +1003,7 @@
             "firstName": "Daniel",
             "lastName": "Gee",
             "department": "Music",
-            "title": "Instructor Of Music ",
+            "title": "Instructor Of Music",
             "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_offices/provost/provost-report/images/daniel-gee_000.jpg",
             "duration": 0
@@ -1014,7 +1012,7 @@
             "firstName": "Jason",
             "lastName": "Eldred",
             "department": "History",
-            "title": "Instructor Of History ",
+            "title": "Instructor Of History",
             "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_academics/departments/history/images/JasonEldred.jpg",
             "duration": 0
@@ -1023,7 +1021,7 @@
             "firstName": "Dan",
             "lastName": "Bos",
             "department": "Music",
-            "title": "Instructor Of Private Lessons ",
+            "title": "Instructor Of Private Lessons",
             "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_academics/departments/music/images/DanBos.jpg",
             "duration": 0
@@ -1032,7 +1030,7 @@
             "firstName": "Erin",
             "lastName": "Shaffer",
             "department": "Counseling Center",
-            "title": "Marriage & Family Therapist ",
+            "title": "Marriage & Family Therapist",
             "source": "http://www.westmont.edu/_current_students/",
             "image": "http://www.santabarbaravacationinfo.com/wp-content/uploads/2012/08/westmont-college.jpg",
             "duration": 0
@@ -1077,7 +1075,7 @@
             "firstName": "Kevin",
             "lastName": "Hess",
             "department": "Information Technology",
-            "title": "Senior Director Of Information Technology ",
+            "title": "Senior Director Of Information Technology",
             "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.santabarbaravacationinfo.com/wp-content/uploads/2012/08/westmont-college.jpg",
             "duration": 0
@@ -1086,7 +1084,7 @@
             "firstName": "Christopher",
             "lastName": "Ecklund",
             "department": "Kinesiology",
-            "title": "Instructor Of Kinesiology ",
+            "title": "Instructor Of Kinesiology",
             "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.santabarbaravacationinfo.com/wp-content/uploads/2012/08/westmont-college.jpg",
             "duration": 0
@@ -1095,7 +1093,7 @@
             "firstName": "Ann",
             "lastName": "Lippincott",
             "department": "English",
-            "title": "Professor Of English ",
+            "title": "Professor Of English",
             "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.santabarbaravacationinfo.com/wp-content/uploads/2012/08/westmont-college.jpg",
             "duration": 0
@@ -1104,7 +1102,7 @@
             "firstName": "Paul",
             "lastName": "Bradford",
             "department": "Career Development And Calling",
-            "title": "Director Of Career Development And Calling ",
+            "title": "Director Of Career Development And Calling",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -1200,15 +1198,6 @@
             "duration": 0
         },
         {
-            "firstName": "Diane",
-            "lastName": "Ziliotto",
-            "department": "Library",
-            "title": "Special Collections Librarian ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Jeff",
             "lastName": "Azain",
             "department": "Athletics Administration",
@@ -1276,15 +1265,6 @@
             "lastName": "Hatley",
             "department": "Music",
             "title": "Choral Accompanist ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Richard",
-            "lastName": "Burnweit",
-            "department": "Library",
-            "title": "Interlibrary Loan Manager ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -1749,15 +1729,6 @@
             "duration": 0
         },
         {
-            "firstName": "Jana Mayfield",
-            "lastName": "Mullen",
-            "department": "Library",
-            "title": "Information Literacy Librarian ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Mike",
             "lastName": "Prather",
             "department": "Phy Plant--public Safety",
@@ -1779,7 +1750,7 @@
             "firstName": "Mark",
             "lastName": "Sargent",
             "department": "Provost",
-            "title": "Provost & Dean Of Faculty ",
+            "title": "Provost & Dean Of Faculty",
             "source": "",
             "image": "http://www.westmont.edu/_offices/provost/images/mark-sargent.jpg",
             "duration": 0
@@ -2076,7 +2047,7 @@
             "firstName": "Heather",
             "lastName": "Keaney",
             "department": "Off Campus Programs",
-            "title": "Istanbul Semester Faculty ",
+            "title": "Istanbul Semester Faculty",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -2131,15 +2102,6 @@
             "lastName": "Bergthold",
             "department": "Education And Liberal Studies",
             "title": "Education Program Assistant ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Mary",
-            "lastName": "Logue",
-            "department": "Library",
-            "title": "Interim Director Library ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -2257,15 +2219,6 @@
             "lastName": "Cavalli",
             "department": "Athletics Administration",
             "title": "Secretary - Athletics & Kinesiology ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Ruth",
-            "lastName": "Angelos",
-            "department": "Library",
-            "title": "Library ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -3274,7 +3227,7 @@
             "firstName": "Jim",
             "lastName": "Wright",
             "department": "Off Campus Programs",
-            "title": "Istanbul Semester Faculty ",
+            "title": "Istanbul Semester Faculty",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -3801,15 +3754,6 @@
             "duration": 0
         },
         {
-            "firstName": "Lauren",
-            "lastName": "Kelley",
-            "department": "Library",
-            "title": "Outreach And Instruction Librarian ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Yuri",
             "lastName": "Okahana",
             "department": "Theatre Arts",
@@ -4152,15 +4096,6 @@
             "duration": 0
         },
         {
-            "firstName": "Kim",
-            "lastName": "Pendleton",
-            "department": "Library",
-            "title": "Research Help Desk Librarian Temp ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Amy",
             "lastName": "Roemelen",
             "department": "Records",
@@ -4227,7 +4162,7 @@
             "firstName": "Michael",
             "lastName": "Everest",
             "department": "Chemistry",
-            "title": "Faculty, Professor of Chemistry",
+            "title": "Professor of Chemistry, Faculty",
             "source": "http://www.westmont.edu/_academics/departments/chemistry/MichaelEverest.html",
             "image": "http://www.westmont.edu/_academics/departments/chemistry/images/Michael_Everest1c.JPG",
             "duration": 8
@@ -4236,7 +4171,7 @@
             "firstName": "Kristi",
             "lastName": "Lazar Cantrell",
             "department": "Chemistry",
-            "title": "Faculty, Assistant Professor Of Chemistry ",
+            "title": "Assistant Professor Of Chemistry, Faculty",
             "source": "http://www.westmont.edu/_academics/departments/chemistry/KristiLazar.html",
             "image": "http://www.westmont.edu/_academics/departments/chemistry/images/Kristi-L-2a_001.JPG",
             "duration": 8
@@ -4245,7 +4180,7 @@
             "firstName": "Stephen",
             "lastName": "Contakes",
             "department": "Chemistry",
-            "title": "Faculty, Associate Professor of Chemistry",
+            "title": "Associate Professor of Chemistry, Faculty",
             "source": "http://www.westmont.edu/_academics/departments/chemistry/stephen-contakes.html",
             "image": "http://www.westmont.edu/_academics/departments/chemistry/images/contakesstephen1.jpg",
             "duration": 8
@@ -4254,7 +4189,7 @@
             "firstName": "Allan",
             "lastName": "Nishimura",
             "department": "Chemistry",
-            "title": "Faculty, Distinguished Professor Emeritus of Chemistry",
+            "title": "Distinguished Professor Emeritus of Chemistry, Faculty",
             "source": "http://www.westmont.edu/_academics/departments/chemistry/allan-nishimura.html",
             "image": "http://www.westmont.edu/_academics/departments/chemistry/uploads/2006/11/nishimura_allan_web.jpg",
             "duration": 8
@@ -4263,7 +4198,7 @@
             "firstName": "David",
             "lastName": "Martin",
             "department": "Chemistry",
-            "title": "Faculty, Professor of Chemistry, Emeritus",
+            "title": "Professor of Chemistry, Emeritus, Faculty",
             "source": "http://www.westmont.edu/_academics/departments/chemistry/david-marten.html",
             "image": "http://www.westmont.edu/_academics/departments/chemistry/uploads/2006/11/marten_david_web.jpg",
             "duration": 8
@@ -4272,7 +4207,7 @@
             "firstName": "Amanda",
             "lastName": "Silberstein",
             "department": "Chemistry",
-            "title": "Faculty, Associate Professor of Chemistry",
+            "title": "Associate Professor of Chemistry, Faculty",
             "source": "http://www.westmont.edu/_academics/departments/chemistry/AmandaSilberstein.html",
             "image": "http://www.westmont.edu/_academics/departments/chemistry/images/Silberstein-Amanda-505x758.jpg",
             "duration": 8
@@ -4281,7 +4216,7 @@
             "firstName": "Carrie",
             "lastName": "Stein Hill",
             "department": "Chemistry",
-            "title": "Faculty, Instructor of Chemistry",
+            "title": "Instructor of Chemistry, Faculty",
             "source": "http://www.westmont.edu/_academics/departments/chemistry/CarrieHill.html",
             "image": "http://www.westmont.edu/_academics/departments/chemistry/images/Carrie_002.jpg",
             "duration": 8
@@ -4290,7 +4225,7 @@
             "firstName": "Niva",
             "lastName": "Tro",
             "department": "Chemistry",
-            "title": "Faculty, Professor of Chemistry",
+            "title": "Professor of Chemistry, Faculty",
             "source": "http://www.westmont.edu/_academics/departments/chemistry/niva-tro.html",
             "image": "http://www.westmont.edu/_academics/departments/chemistry/images/tro_nivaldo_web.jpg",
             "duration": 8
@@ -4299,7 +4234,7 @@
             "firstName": "Heidi",
             "lastName": "Henes-Van Bergen",
             "department": "Chemistry",
-            "title": "Staff, Administrative Assistant",
+            "title": "Administrative Assistant, Staff",
             "source": "http://www.westmont.edu/_academics/departments/chemistry/other-faculty-and-staff.html",
             "image": "http://www.westmont.edu/_academics/departments/chemistry/images/henes_vanbergen_heidi_web_004.jpg",
             "duration": 0
@@ -4308,7 +4243,7 @@
             "firstName": "Nikki",
             "lastName": "Dressler",
             "department": "Chemistry",
-            "title": "Faculty, Instructor Of Chemistry ",
+            "title": "Instructor Of Chemistry, Faculty",
             "source": "http://www.westmont.edu/_academics/departments/chemistry/other-faculty-and-staff.html",
             "image": "http://www.westmont.edu/_academics/departments/chemistry/images/a_002.jpg",
             "duration": 0
@@ -4317,7 +4252,7 @@
             "firstName": "Angela",
             "lastName": "D'Amour",
             "department": "Office Of Campus Life",
-            "title": "Staff, Director Of Campus Life ",
+            "title": "Director Of Campus Life, Staff",
             "source": "http://www.westmont.edu/_offices/campuslife/MeettheStaff.html",
             "image": "http://www.westmont.edu/_offices/campuslife/images/square.jpg",
             "duration": 0
@@ -4326,7 +4261,7 @@
             "firstName": "Alexander",
             "lastName": "Cameron",
             "department": "Office Of Campus Life",
-            "title": "Staff, Assistant Director Of Campus Life ",
+            "title": "Assistant Director Of Campus Life, Staff",
             "source": "http://www.westmont.edu/_offices/campuslife/MeettheStaff.html",
             "image": "http://www.westmont.edu/conferences/images/ScreenShot2016-05-11at3.17.10PM_000.png",
             "duration": 0
@@ -4335,7 +4270,7 @@
             "firstName": "Brad",
             "lastName": "Robertson",
             "department": "Office Of Campus Life",
-            "title": "Staff, Interim Assistant Director Of Campus Life ",
+            "title": "Interim Assistant Director Of Campus Life , Staff",
             "source": "http://www.westmont.edu/_offices/campuslife/MeettheStaff.html",
             "image": "http://www.westmont.edu/_offices/campuslife/images/BradRobertson_000.JPG",
             "duration": 0
@@ -4344,7 +4279,7 @@
             "firstName": "Rebecca",
             "lastName": "Boa",
             "department": "Office Of Campus Life",
-            "title": "Staff, Assistant Director Of Campus Life ",
+            "title": "Assistant Director Of Campus Life, Staff",
             "source": "http://www.westmont.edu/_offices/campuslife/MeettheStaff.html",
             "image": "http://www.westmont.edu/_offices/campuslife/images/D1X_9055_000.JPG",
             "duration": 0
@@ -4353,7 +4288,7 @@
             "firstName": "Grace",
             "lastName": "Spadoro",
             "department": "Office of Campus Life",
-            "title": "Staff, Campus Life Assistant",
+            "title": "Campus Life Assistant, Staff",
             "source": "http://www.westmont.edu/_offices/campuslife/MeettheStaff.html",
             "image": "http://www.westmont.edu/_offices/campuslife/images/Grace2.0.JPG",
             "duration": 0
@@ -4362,7 +4297,7 @@
             "firstName": "Keith",
             "lastName": "Erickson",
             "department": "Music",
-            "title": "Staff, Music Department Coordinator",
+            "title": "Music Department Coordinator, Staff",
             "source": "http://www.westmont.edu/_academics/departments/music/Staff.html",
             "image": "http://www.westmont.edu/_academics/departments/music/images/WMG_3279_000.JPG",
             "duration": 0
@@ -4371,9 +4306,72 @@
             "firstName": "Lauren",
             "lastName": "Rodriguez",
             "department": "Music",
-            "title": "Staff, Music Department Assistant",
+            "title": "Music Department Assistant, Staff",
             "source": "http://www.westmont.edu/_academics/departments/music/Staff.html",
             "image": "http://www.westmont.edu/_academics/departments/music/images/RodriguezLauren_Reg.JPG",
+            "duration": 0
+        },
+        {
+            "firstName": "Lauren",
+            "lastName": "Kelley",
+            "department": "Library",
+            "title": "Outreach And Instruction Librarian, Staff",
+            "source": "http://library.westmont.edu/librarystaff.html",
+            "image": "http://library.westmont.edu/images/staff/lauren1.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Ruth",
+            "lastName": "Angelos",
+            "department": "Library",
+            "title": "Circulation Coordinator, Staff",
+            "source": "http://library.westmont.edu/librarystaff.html",
+            "image": "http://library.westmont.edu/images/staff/ruth1.gif",
+            "duration": 0
+        },
+        {
+            "firstName": "Mary",
+            "lastName": "Logue",
+            "department": "Library",
+            "title": "Director, Staff",
+            "source": "http://library.westmont.edu/librarystaff.html",
+            "image": "http://library.westmont.edu/images/staff/mary.gif",
+            "duration": 0
+        },
+        {
+            "firstName": "Richard",
+            "lastName": "Burnweit",
+            "department": "Library",
+            "title": "Interlibrary Loan Manager, Staff",
+            "source": "http://library.westmont.edu/librarystaff.html",
+            "image": "http://library.westmont.edu/images/staff/richard.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Diane",
+            "lastName": "Ziliotto",
+            "department": "Library",
+            "title": "Reference and Instruction Librarian, Colllege Archivist, Staff",
+            "source": "http://library.westmont.edu/librarystaff.html",
+            "image": "http://library.westmont.edu/images/staff/diane1.gif",
+            "duration": 0
+        },
+        {
+            "firstName": "Jana Mayfield",
+            "lastName": "Mullen",
+            "department": "Library",
+            "title": "Digitization and Instruction Librarian, Staff",
+            "source": "http://library.westmont.edu/librarystaff.html",
+            "image": "http://library.westmont.edu/images/JMMpublicphoto1-11-17.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Patricia",
+            "lastName": "Noormand",
+            "department": "Library",
+            "title": "Assistant to the Library Director, Staff",
+            "source": "http://library.westmont.edu/librarystaff.html",
+            "image": "http://library.westmont.edu/images/staff/patricia.jpg",
             "duration": 0
         }
     ]
