@@ -1,4 +1,5 @@
 
+
 {
     "faculty": [
         {
@@ -2901,15 +2902,6 @@
             "duration": 0
         },
         {
-            "firstName": "Keith",
-            "lastName": "Erickson",
-            "department": "Music",
-            "title": "Music Department Coordinator ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Reed",
             "lastName": "Sheard",
             "department": "Office Of College Advancement",
@@ -3103,15 +3095,6 @@
             "lastName": "Radford",
             "department": "Music",
             "title": "Instructor Of Private Lessons ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Michelle",
-            "lastName": "Starrh",
-            "department": "Music",
-            "title": "Music Department Assistant ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -4373,6 +4356,24 @@
             "title": "Staff, Campus Life Assistant",
             "source": "http://www.westmont.edu/_offices/campuslife/MeettheStaff.html",
             "image": "http://www.westmont.edu/_offices/campuslife/images/Grace2.0.JPG",
+            "duration": 0
+        },
+        {
+            "firstName": "Keith",
+            "lastName": "Erickson",
+            "department": "Music",
+            "title": "Staff, Music Department Coordinator",
+            "source": "http://www.westmont.edu/_academics/departments/music/Staff.html",
+            "image": "http://www.westmont.edu/_academics/departments/music/images/WMG_3279_000.JPG",
+            "duration": 0
+        },
+        {
+            "firstName": "Lauren",
+            "lastName": "Rodriguez",
+            "department": "Music",
+            "title": "Staff, Music Department Assistant",
+            "source": "http://www.westmont.edu/_academics/departments/music/Staff.html",
+            "image": "http://www.westmont.edu/_academics/departments/music/images/RodriguezLauren_Reg.JPG",
             "duration": 0
         }
     ]
