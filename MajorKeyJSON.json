@@ -1,3 +1,4 @@
+
 {
     "faculty": [{
             "firstName": "Wayne",
@@ -1719,15 +1720,6 @@
             "duration": 0
         },
         {
-            "firstName": "Lisa",
-            "lastName": "Vincent",
-            "department": "Conferences",
-            "title": "Conferences & Scheduling Coordinator ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Mark",
             "lastName": "Sargent",
             "department": "Provost",
@@ -2610,15 +2602,6 @@
             "duration": 0
         },
         {
-            "firstName": "Melinda",
-            "lastName": "Harriman",
-            "department": "Conferences",
-            "title": "Director Of Conference Services & Campus Scheduling ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Toya",
             "lastName": "Cooper",
             "department": "Legal Counsel",
@@ -3169,15 +3152,6 @@
             "duration": 0
         },
         {
-            "firstName": "Morgan",
-            "lastName": "McCurry",
-            "department": "K",
-            "title": "Annual Giving ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Jim",
             "lastName": "Wright",
             "department": "Off Campus Programs",
@@ -3640,15 +3614,6 @@
             "lastName": "Knecht",
             "department": "Music",
             "title": "Instructor Of Private Lessons ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Meghan",
-            "lastName": "Vincent",
-            "department": "Conferences",
-            "title": "Conferences Office Support Temp ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -4372,7 +4337,42 @@
             "source": "http://www.westmont.edu/_offices/olp/AboutourStaff.html",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
+        },
+        {
+            "firstName": "Melinda",
+            "lastName": "Harriman",
+            "department": "Conferences and Event Services",
+            "title": "Director Of Conference Services & Campus Scheduling, Staff",
+            "source": "http://www.westmont.edu/conferences/staff.html",
+            "image": "http://www.westmont.edu/conferences/images/ScreenShot2016-05-11at3.16.54PM_000.png",
+            "duration": 0
+        },
+        {
+            "firstName": "Morgan",
+            "lastName": "McCurry",
+            "department": "Conferences and Event Services",
+            "title": "Event Services and Campus Scheduling Coordinator, Staff",
+            "source": "https://www.linkedin.com/in/morganmccurry/",
+            "image": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAATdAAAAJDRkNDI5ZTYxLWQ2NWMtNGU2NC04ZmU3LTM1YzRiNzk0MWQzNg.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "John",
+            "lastName": "Whallon",
+            "department": "Conferences and Event Services",
+            "title": "Conferences Operations Coordinator, Staff",
+            "source": "http://www.westmont.edu/conferences/staff.html",
+            "image": "http://www.westmont.edu/conferences/images/ScreenShot2016-05-11at3.17.04PM.png",
+            "duration": 0
+        },
+        {
+            "firstName": "Lisa",
+            "lastName": "Vincent",
+            "department": "Conferences and Event Services",
+            "title": "Conferences & Scheduling Coordinator,Staff ",
+            "source": "http://www.westmont.edu/conferences/staff.html",
+            "image": "http://www.westmont.edu/conferences/images/ScreenShot2016-05-11at3.16.59PM_000.jpg",
+            "duration": 0
         }
-
     ]
 }
