@@ -991,15 +991,6 @@
             "duration": 8
         },
         {
-            "firstName": "Johnny",
-            "lastName": "Whallon",
-            "department": "Athletics Administration",
-            "title": "Lead Asst. Coach, Men's Soccer/conference Operations Coord",
-            "source": "http://www.westmont.edu/",
-            "image": "",
-            "duration": 0
-        },
-        {
             "firstName": "Daniel",
             "lastName": "Gee",
             "department": "Music",
@@ -4357,10 +4348,10 @@
             "duration": 0
         },
         {
-            "firstName": "John",
+            "firstName": "Johnny",
             "lastName": "Whallon",
-            "department": "Conferences and Event Services",
-            "title": "Conferences Operations Coordinator, Staff",
+            "department": "Atheltics Administration and Conferences and Event Services",
+            "title": "Lead Asst. Coach, Men's Soccer and Conferences Operations Coordinator, Staff",
             "source": "http://www.westmont.edu/conferences/staff.html",
             "image": "http://www.westmont.edu/conferences/images/ScreenShot2016-05-11at3.17.04PM.png",
             "duration": 0
