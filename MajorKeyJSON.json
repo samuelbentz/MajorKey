@@ -1,4 +1,3 @@
-
 {
     "faculty": [{
             "firstName": "Wayne",
@@ -2674,16 +2673,6 @@
             "duration": 0
         },
         {
-            "firstName": "Stu",
-            "lastName": "Cleek",
-            "department": "Residence Life",
-            "title": "Associate Dean For Residence Life ",
-            "source": "http://www.westmont.edu/_offices/residence_life/residence-life-staff.html",
-            "image": "http://www.westmont.edu/_offices/residence_life/images/Stu_Cleek_144x216.jpg",
-            "duration": 0
-        },
-
-        {
             "firstName": "Ben",
             "lastName": "Patterson",
             "department": "Campus Pastors Office",
@@ -2825,15 +2814,6 @@
             "title": "Custodian ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Anna",
-            "lastName": "Fletcher",
-            "department": "Residence Life",
-            "title": "Resident Director ",
-            "source": "http://www.westmont.edu/_offices/residence_life/residence-life-staff.html",
-            "image": "http://www.westmont.edu/_offices/residence_life/images/Anna_Fletcher_144x216.jpg",
             "duration": 0
         },
         {
@@ -3026,6 +3006,15 @@
             "duration": 0
         },
         {
+            "firstName": "Stu",
+            "lastName": "Cleek",
+            "department": "Residence Life",
+            "title": "Associate Dean For Residence Life ",
+            "source": "http://www.westmont.edu/_offices/residence_life/residence-life-staff.html",
+            "image": "http://www.westmont.edu/_offices/residence_life/images/Stu_Cleek_144x216.jpg",
+            "duration": 0
+        },
+        {
             "firstName": "Shannon",
             "lastName": "Balram",
             "department": "Residence Life",
@@ -3041,6 +3030,69 @@
             "title": "Assistant Director Of Residence Life",
             "source": "http://www.westmont.edu/_offices/residence_life/residence-life-staff.html",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Melissa",
+            "lastName": "Lima",
+            "department": "Residence Life",
+            "title": "Resident Director ",
+            "source": "http://www.westmont.edu/_offices/residence_life/residence-life-staff.html",
+            "image": "http://www.westmont.edu/_offices/residence_life/images/MelissaLima_flipped_144x216.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Rachel",
+            "lastName": "Fabian",
+            "department": "Residence Life",
+            "title": "Resident Director ",
+            "source": "http://www.westmont.edu/_offices/residence_life/residence-life-staff.html",
+            "image": "http://www.westmont.edu/_offices/residence_life/images/RachelFabian_flipped_144x216.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Dee",
+            "lastName": "Kim",
+            "department": "Residence Life",
+            "title": "Resident Director ",
+            "source": "http://www.westmont.edu/_offices/residence_life/residence-life-staff.html",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Anna",
+            "lastName": "Fletcher",
+            "department": "Residence Life",
+            "title": "Resident Director ",
+            "source": "http://www.westmont.edu/_offices/residence_life/residence-life-staff.html",
+            "image": "http://www.westmont.edu/_offices/residence_life/images/Anna_Fletcher_144x216.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Thomas",
+            "lastName": "Staffileno",
+            "department": "Residence Life",
+            "title": "Resident Director ",
+            "source": "http://www.westmont.edu/_offices/residence_life/residence-life-staff.html",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Peter",
+            "lastName": "Hansen",
+            "department": "Residence Life",
+            "title": "Resident Director ",
+            "source": "http://www.westmont.edu/_offices/residence_life/residence-life-staff.html",
+            "image": "http://www.westmont.edu/_offices/residence_life/images/PeterHansen_144x216.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Liz",
+            "lastName": "Robertson",
+            "department": "Residence Life",
+            "title": "Resident Director ",
+            "source": "http://www.westmont.edu/_offices/residence_life/residence-life-staff.html",
+            "image": "http://www.westmont.edu/_offices/residence_life/images/liz.jpg",
             "duration": 0
         },
         {
@@ -3502,15 +3554,6 @@
             "duration": 0
         },
         {
-            "firstName": "Peter",
-            "lastName": "Hansen",
-            "department": "Residence Life",
-            "title": "Resident Director ",
-            "source": "http://www.westmont.edu/_offices/residence_life/residence-life-staff.html",
-            "image": "http://www.westmont.edu/_offices/residence_life/images/PeterHansen_144x216.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Roni",
             "lastName": "Miranda",
             "department": "Admissions",
@@ -3610,15 +3653,6 @@
             "duration": 0
         },
         {
-            "firstName": "Rachel",
-            "lastName": "Fabian",
-            "department": "Residence Life",
-            "title": "Resident Director ",
-            "source": "http://www.westmont.edu/_offices/residence_life/residence-life-staff.html",
-            "image": "http://www.westmont.edu/_offices/residence_life/images/RachelFabian_flipped_144x216.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Nicole",
             "lastName": "Wald",
             "department": "Education And Liberal Studies",
@@ -3634,15 +3668,6 @@
             "title": "Assistant Professor Of Kinesiology Pt ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Melissa",
-            "lastName": "Lima",
-            "department": "Residence Life",
-            "title": "Resident Director ",
-            "source": "http://www.westmont.edu/_offices/residence_life/residence-life-staff.html",
-            "image": "http://www.westmont.edu/_offices/residence_life/images/MelissaLima_flipped_144x216.jpg",
             "duration": 0
         },
         {
@@ -3697,15 +3722,6 @@
             "title": "Director Of The Counseling Center ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Liz",
-            "lastName": "Robertson",
-            "department": "Residence Life",
-            "title": "Resident Director ",
-            "source": "http://www.westmont.edu/_offices/residence_life/residence-life-staff.html",
-            "image": "http://www.westmont.edu/_offices/residence_life/images/liz.jpg",
             "duration": 0
         },
         {
