@@ -1,3 +1,4 @@
+
 {
     "faculty": [{
             "firstName": "Wayne",
@@ -29,8 +30,8 @@
         {
             "firstName": "Patti",
             "lastName": "Hunter",
-            "department": "Math",
-            "title": "Faculty",
+            "department": "Math and Provost",
+            "title": "Professor and Vice Provost, Faculty",
             "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_academics/departments/mathematics/images/patti-hunter.jpg",
             "duration": 10
@@ -335,9 +336,9 @@
         {
             "firstName": "Eileen",
             "lastName": "McMahon McQuade",
-            "department": "Biology",
-            "title": "Faculty",
-            "source": "http://www.westmont.edu/_academics/",
+            "department": "Biology and Provost",
+            "title": "Professor and Associate Dean of the Faculty",
+            "source": "http://www.westmont.edu/_offices/provost/ProvostOfficeStaff.html",
             "image": "http://www.westmont.edu/_academics/departments/biology/images/McQuadeMcMahonEileen.JPG",
             "duration": 8
         },
@@ -1055,10 +1056,19 @@
         {
             "firstName": "Kirsten",
             "lastName": "Burdick",
-            "department": "Administration",
-            "title": "Executive Assistant to Provost",
-            "source": "http://www.westmont.edu/_offices/provost/provost-report/archive/feb16/",
+            "department": "Provost",
+            "title": "Executive Assistant to Provost, Staff",
+            "source": "http://www.westmont.edu/_offices/provost/ProvostOfficeStaff.html",
             "image": "http://www.westmont.edu/_offices/provost/provost-report/images/Burdick1.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Jaron",
+            "lastName": "Burdick",
+            "department": "Provost",
+            "title": "Executive Assistant to Provost, Staff",
+            "source": "https://www.linkedin.com/in/jaron-burdick-b2054069/",
+            "image": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/7/000/230/0cc/1747dc8.jpg",
             "duration": 0
         },
         {
@@ -1714,7 +1724,7 @@
             "lastName": "Sargent",
             "department": "Provost",
             "title": "Provost & Dean Of Faculty",
-            "source": "",
+            "source": "http://www.westmont.edu/_offices/provost/ProvostOfficeStaff.html",
             "image": "http://www.westmont.edu/_offices/provost/images/mark-sargent.jpg",
             "duration": 0
         },
@@ -2981,10 +2991,10 @@
         {
             "firstName": "Tatiana",
             "lastName": "Nazarenko",
-            "department": "K",
-            "title": "Provost ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "department": "Provost",
+            "title": "Provost, Faculty",
+            "source": "http://www.westmont.edu/_offices/provost/ProvostOfficeStaff.html",
+            "image": "http://www.westmont.edu/_common/images/tatiana-nazarenko.jpg",
             "duration": 0
         },
         {
