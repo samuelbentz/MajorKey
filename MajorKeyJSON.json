@@ -1,4 +1,3 @@
-
 {
     "faculty": [{
             "firstName": "Wayne",
@@ -1072,15 +1071,6 @@
             "duration": 0
         },
         {
-            "firstName": "Kevin",
-            "lastName": "Hess",
-            "department": "Information Technology",
-            "title": "Senior Director Of Information Technology",
-            "source": "http://www.westmont.edu/_academics/",
-            "image": "http://www.santabarbaravacationinfo.com/wp-content/uploads/2012/08/westmont-college.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Christopher",
             "lastName": "Ecklund",
             "department": "Kinesiology",
@@ -1283,15 +1273,6 @@
             "lastName": "Maes",
             "department": "Physical Plant",
             "title": "Phy Plant--public Safety ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Igor",
-            "lastName": "Rozhko",
-            "department": "Information Technology",
-            "title": "Network Manager ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -1688,15 +1669,6 @@
             "lastName": "Schoeff",
             "department": "Art",
             "title": "Instructor Of Art ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Jeff",
-            "lastName": "Aquilon",
-            "department": "Information Technology",
-            "title": "Director Of Academic & Institutional Technology ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -2791,15 +2763,6 @@
             "duration": 0
         },
         {
-            "firstName": "Reed",
-            "lastName": "Sheard",
-            "department": "Office Of College Advancement",
-            "title": "Vice President For Advancement & Information Technology ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Maria",
             "lastName": "Rocha",
             "department": "Phy Plant--custodial",
@@ -3205,15 +3168,6 @@
             "duration": 0
         },
         {
-            "firstName": "Kai",
-            "lastName": "Sheets",
-            "department": "Information Technology",
-            "title": "It User Services Specialist ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Kaci",
             "lastName": "Mexico",
             "department": "Athletics Administration",
@@ -3434,15 +3388,6 @@
             "lastName": "Meyer",
             "department": "Auxillary Services",
             "title": "Auxiliary Services Assistant ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Connor",
-            "lastName": "Riva",
-            "department": "Information Technology",
-            "title": "Server, Storage & Virtual Environment Network Administrator ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -4381,6 +4326,69 @@
             "source": "http://www.westmont.edu/conferences/staff.html",
             "image": "http://www.westmont.edu/conferences/images/ScreenShot2016-05-11at3.16.59PM_000.jpg",
             "duration": 0
+        },
+        {
+            "firstName": "Jeff",
+            "lastName": "Aquilon",
+            "department": "Information Technology",
+            "title": "Director Of Academic & Institutional Technology, Staff",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Raymond",
+            "lastName": "Valencia",
+            "department": "Information Technology",
+            "title": "Reprographics, Staff",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Kevin",
+            "lastName": "Hess",
+            "department": "Information Technology",
+            "title": "Senior Director Of Information Technology, Staff",
+            "source": "http://www.westmont.edu/_academics/",
+            "image": "http://www.santabarbaravacationinfo.com/wp-content/uploads/2012/08/westmont-college.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Igor",
+            "lastName": "Rozhko",
+            "department": "Information Technology",
+            "title": "Network Manager, Staff ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Reed",
+            "lastName": "Sheard",
+            "department": "Office Of College Advancement",
+            "title": "Vice President For Advancement & Information Technology, Staff",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Kai",
+            "lastName": "Sheets",
+            "department": "Information Technology",
+            "title": "IT User Services Specialist, Staff",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Connor",
+            "lastName": "Riva",
+            "department": "Information Technology",
+            "title": "Server, Storage & Virtual Environment Network Administrator , Staff",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
         }
     ]
-}
+}	
