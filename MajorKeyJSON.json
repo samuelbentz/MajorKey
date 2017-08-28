@@ -1215,15 +1215,6 @@
             "duration": 0
         },
         {
-            "firstName": "Linnie",
-            "lastName": "Avila",
-            "department": "Admissions",
-            "title": "Assistant To Dean Of Admissions ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Amanda",
             "lastName": "Sparkman",
             "department": "Biology",
@@ -1417,15 +1408,6 @@
             "lastName": "Ball",
             "department": "English",
             "title": "Instructor Of English ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Crys",
-            "lastName": "Yem",
-            "department": "Admissions",
-            "title": "Admissions ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -1701,15 +1683,6 @@
             "duration": 0
         },
         {
-            "firstName": "Rebekah",
-            "lastName": "Beveridge",
-            "department": "Admissions",
-            "title": "Admissions Events Coordinator",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Tom",
             "lastName": "Beveridge",
             "department": "Physical Plant",
@@ -1759,15 +1732,6 @@
             "lastName": "Wright",
             "department": "Administration",
             "title": "Institutional Research Assistant Temp ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Dawn",
-            "lastName": "Gendron",
-            "department": "Admissions",
-            "title": "Admissions Info System Administrator ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -1860,15 +1824,6 @@
             "title": "Athletic Director ",
             "source": "http://athletics.westmont.edu/staff.aspx?staff=35",
             "image": "http://athletics.westmont.edu/images/2015/8/10/Odell_Dave_150wx225h.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Jodi",
-            "lastName": "Smith",
-            "department": "Admissions",
-            "title": "Associate Dean Of Admissions ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
         },
         {
@@ -2538,24 +2493,6 @@
             "duration": 0
         },
         {
-            "firstName": "Karen",
-            "lastName": "Cornelius",
-            "department": "Admissions",
-            "title": "Application Coordinator ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Olympia",
-            "lastName": "Hugo",
-            "department": "K",
-            "title": "Admissions ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Chris",
             "lastName": "Call",
             "department": "Administration",
@@ -2835,15 +2772,6 @@
             "duration": 0
         },
         {
-            "firstName": "Silvio",
-            "lastName": "Vazquez",
-            "department": "Admissions",
-            "title": "Dean Of Admissions ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Craig",
             "lastName": "Thomas",
             "department": "Music",
@@ -2958,15 +2886,6 @@
             "title": "Provost, Faculty",
             "source": "http://www.westmont.edu/_offices/provost/ProvostOfficeStaff.html",
             "image": "http://www.westmont.edu/_common/images/tatiana-nazarenko.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Matt",
-            "lastName": "Browne",
-            "department": "Admissions",
-            "title": "Admissions Counselor ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
         },
         {
@@ -3141,15 +3060,6 @@
             "duration": 0
         },
         {
-            "firstName": "Sophie",
-            "lastName": "Judd",
-            "department": "Admissions",
-            "title": "Admissions ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Katie",
             "lastName": "Mukai",
             "department": "Psychology",
@@ -3195,28 +3105,10 @@
             "duration": 0
         },
         {
-            "firstName": "Rachel",
-            "lastName": "Rowenhorst",
-            "department": "Admissions",
-            "title": "Admissions Counselor ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Jonathan",
             "lastName": "Combs",
             "department": "Athletics Administration",
             "title": "Assistant Coach - Baseball ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Adae",
-            "lastName": "Rehmke",
-            "department": "Admissions",
-            "title": "Information Systems Assistant",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -3509,15 +3401,6 @@
             "duration": 0
         },
         {
-            "firstName": "Roni",
-            "lastName": "Miranda",
-            "department": "Admissions",
-            "title": "Admissions Assistant ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Joanne",
             "lastName": "Kim",
             "department": "Music",
@@ -3747,15 +3630,6 @@
             "lastName": "Gallegos",
             "department": "Phy Plant--custodial",
             "title": "Custodian ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Mike",
-            "lastName": "McKinniss",
-            "department": "Admissions",
-            "title": "Associate Director Of Admissions For Operations ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -4386,6 +4260,168 @@
             "lastName": "Riva",
             "department": "Information Technology",
             "title": "Server, Storage & Virtual Environment Network Administrator , Staff",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Dominique",
+            "lastName": "Loftus",
+            "department": "Admissions",
+            "title": "Assistant To Dean Of Admissions/Project Manager, Staff",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Silvio",
+            "lastName": "Vazquez",
+            "department": "Admissions",
+            "title": "Dean Of Admissions, Staff",
+            "source": "http://www.westmont.edu/a/silvio-vazquez.html",
+            "image": "http://www.westmont.edu/a/img/silvio-vazquez-2.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Crys",
+            "lastName": "Yem",
+            "department": "Admissions",
+            "title": "Admissions, Staff",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Rebekah",
+            "lastName": "Beveridge",
+            "department": "Admissions",
+            "title": "Admissions Events Coordinator, Staff",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Dawn",
+            "lastName": "Gendron",
+            "department": "Admissions",
+            "title": "Admissions Info System Administrator, Staff",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Jodi",
+            "lastName": "Smith",
+            "department": "Admissions",
+            "title": "Associate Dean Of Admissions, Staff",
+            "source": "http://www.westmont.edu/admissions/jodi-smith.html",
+            "image": "http://www.westmont.edu/admissions/images/smith_jodi_web.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Mike",
+            "lastName": "McKinniss",
+            "department": "Admissions",
+            "title": "Associate Director Of Admissions For Operations, Staff",
+            "source": "http://www.westmont.edu/admissions/mike-mcKinniss.html",
+            "image": "http://www.westmont.edu/admissions/images/mike.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Andrew",
+            "lastName": "Devian",
+            "department": "Admissions",
+            "title": "Admissions Counselor, Staff",
+            "source": "http://www.westmont.edu/admissions/andrew-devian.html",
+            "image": "http://www.westmont.edu/admissions/images/andrew-devian.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Sarah",
+            "lastName": "Frigon",
+            "department": "Admissions",
+            "title": "Admissions Counselor, Staff",
+            "source": "http://www.westmont.edu/admissions/sarah-frigon.html",
+            "image": "http://www.westmont.edu/admissions/images/sarah-frigon.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Matt",
+            "lastName": "Pace",
+            "department": "Admissions",
+            "title": "Admissions Counselor, Staff",
+            "source": "http://www.westmont.edu/admissions/matt-pace.html",
+            "image": "http://www.westmont.edu/admissions/images/matt-pace.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Grace",
+            "lastName": "Bjorkman",
+            "department": "Admissions",
+            "title": "Admissions Counselor, Staff",
+            "source": "http://www.westmont.edu/admissions/grace-bjorkman.html",
+            "image": "http://www.westmont.edu/admissions/images/grace-bjorkman.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Karl",
+            "lastName": "Fredrickson",
+            "department": "Admissions",
+            "title": "Admissions Counselor, Staff",
+            "source": "http://www.westmont.edu/admissions/karl-fredrickson.html",
+            "image": "http://www.westmont.edu/admissions/images/karl-fredrickson.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Karen",
+            "lastName": "Cornelius",
+            "department": "Admissions",
+            "title": "Application Coordinator ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Olympia",
+            "lastName": "Hugo",
+            "department": "K",
+            "title": "Admissions ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Sophie",
+            "lastName": "Judd",
+            "department": "Admissions",
+            "title": "Admissions ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Rachel",
+            "lastName": "Rowenhorst",
+            "department": "Admissions",
+            "title": "Admissions Counselor ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Adae",
+            "lastName": "Rehmke",
+            "department": "Admissions",
+            "title": "Information Systems Assistant",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Roni",
+            "lastName": "Miranda",
+            "department": "Admissions",
+            "title": "Admissions Assistant ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
