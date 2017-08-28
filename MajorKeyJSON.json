@@ -4376,7 +4376,7 @@
             "firstName": "Karen",
             "lastName": "Cornelius",
             "department": "Admissions",
-            "title": "Application Coordinator ",
+            "title": "Application Coordinator, Staff",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -4385,7 +4385,7 @@
             "firstName": "Olympia",
             "lastName": "Hugo",
             "department": "K",
-            "title": "Admissions ",
+            "title": "Admissions, Staff",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -4394,16 +4394,7 @@
             "firstName": "Sophie",
             "lastName": "Judd",
             "department": "Admissions",
-            "title": "Admissions ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Rachel",
-            "lastName": "Rowenhorst",
-            "department": "Admissions",
-            "title": "Admissions Counselor ",
+            "title": "Admissions, Staff",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -4412,7 +4403,7 @@
             "firstName": "Adae",
             "lastName": "Rehmke",
             "department": "Admissions",
-            "title": "Information Systems Assistant",
+            "title": "Information Systems Assistant, Staff",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -4421,7 +4412,7 @@
             "firstName": "Roni",
             "lastName": "Miranda",
             "department": "Admissions",
-            "title": "Admissions Assistant ",
+            "title": "Admissions Assistant, Staff",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
