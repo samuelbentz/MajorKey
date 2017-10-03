@@ -1102,8 +1102,8 @@
             "lastName": "Wilson",
             "department": "Office Of Student Life",
             "title": "Associate Dean Of Students ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "source": "http://www.westmont.edu/_student_life/",
+            "image": "http://www.westmont.edu/_student_life/images/WilsonTim.JPG",
             "duration": 0
         },
         {
@@ -1503,10 +1503,10 @@
             "duration": 0
         },
         {
-            "firstName": "Silvia",
-            "lastName": "Rodarte",
+            "firstName": "Renee",
+            "lastName": "Henry",
             "department": "Mathematics & Computer Science",
-            "title": "Secretary - Math/computer Science/physics ",
+            "title": "Secretary - Math/Computer Science/physics ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -2505,9 +2505,9 @@
             "firstName": "Tiffany",
             "lastName": "Lobner",
             "department": "Office Of Student Life",
-            "title": "Administrative Assistant To The Vp For Sl ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "title": "Administrative Assistant To The VP For Student Life",
+            "source": "http://www.westmont.edu/_student_life/",
+            "image": "http://www.westmont.edu/_student_life/images/TiffanyLobner_000.JPG",
             "duration": 0
         },
         {
@@ -2641,8 +2641,8 @@
             "lastName": "Cha",
             "department": "Intercultural Programs",
             "title": "Director Of Intercultural Programs ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "source": "http://www.westmont.edu/_student_life/",
+            "image": "http://www.westmont.edu/_student_life/images/JasonCha.JPG",
             "duration": 0
         },
         {
@@ -3360,8 +3360,8 @@
             "lastName": "Lowe",
             "department": "Office Of Student Life",
             "title": "Part Time Student Life Assistant ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "source": "http://www.westmont.edu/_student_life/",
+            "image": "http://www.westmont.edu/_student_life/images/AngelaLowe.jpg",
             "duration": 0
         },
         {
@@ -3485,8 +3485,8 @@
             "firstName": "Edee",
             "lastName": "Schulze",
             "department": "Office Of Student Life",
-            "title": "Vp For Student Life/dean Of Students ",
-            "source": "",
+            "title": "Vice President For Student Life/dean Of Students ",
+            "source": "http://www.westmont.edu/_student_life/",
             "image": "http://www.westmont.edu/_student_life/images/EdeeSchulze.jpg",
             "duration": 0
         },
