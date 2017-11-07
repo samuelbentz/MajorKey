@@ -918,14 +918,14 @@
             "duration": 8
         },
         {
-            "firstName": "Wendy",
-            "lastName": "Wright",
+            "firstName": "Ryan",
+            "lastName": "Goepfert",
             "department": "Human Resources",
             "title": "Employment & Benefits Specialist",
-            "source": "http://www.westmont.edu/_academics/",
-            "image": "http://www.westmont.edu/_offices/human_resources/images/wendy-wright.jpg",
+            "source": "http://www.westmont.edu/_offices/human_resources/meet-our-staff.html",
+            "image": "https://raw.githubusercontent.com/samuelbentz/MajorKey/master/GoepfertRyan.png",
             "duration": 8
-        },
+        }, 
         {
             "firstName": "Alexis",
             "lastName": "Barrett",
