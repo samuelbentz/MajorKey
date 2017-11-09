@@ -1648,20 +1648,47 @@
             "duration": 0
         },
         {
-            "firstName": "Jennifer",
-            "lastName": "Taylor",
-            "department": "Records",
-            "title": "Pt Student Support Counselor ",
-            "source": "",
+            "firstName": "Michelle",
+            "lastName": "Hardley",
+            "department": "Registrar",
+            "title": "Registrar, Staff",
+            "source": "http://www.westmont.edu/_offices/registrar/",
+            "image": "http://www.westmont.edu/_offices/provost/provost-report/images/michelle-hardley.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Hiller",
+            "lastName": "Delaney",
+            "department": "Registrar",
+            "title": "Records Assistant, Staff",
+            "source": "http://www.westmont.edu/_offices/registrar/",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
         },
         {
-            "firstName": "Michelle",
-            "lastName": "Hardley",
-            "department": "Records",
-            "title": "Registrar ",
-            "source": "",
+            "firstName": "Sonya",
+            "lastName": "Welch",
+            "department": "Registrar",
+            "title": "Coordinator of Academic Support Services, Staff",
+            "source": "http://www.westmont.edu/_offices/academic_advising/",
+            "image": "https://raw.githubusercontent.com/samuelbentz/MajorKey/master/Welch%2C%20Sonya_17.JPG",
+            "duration": 0
+        },
+        {
+            "firstName": "Anna",
+            "lastName": "Darby",
+            "department": "Registrar",
+            "title": "Assistant Regstrar, Staff",
+            "source": "http://www.westmont.edu/_offices/registrar/",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Amy",
+            "lastName": "Roemelen",
+            "department": "Registrar",
+            "title": "Assistant Registrar ",
+            "source": "http://www.westmont.edu/_offices/registrar/",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
         },
@@ -1994,15 +2021,6 @@
             "lastName": "Foell",
             "department": "Institute For The Liberal Arts",
             "title": "Assistant Director Of The Gaede Institute ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Jennifer",
-            "lastName": "Salemann",
-            "department": "Records",
-            "title": "Records Temp ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -2737,15 +2755,6 @@
             "duration": 0
         },
         {
-            "firstName": "Melanie",
-            "lastName": "Rogers",
-            "department": "Records",
-            "title": "Records ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Helen",
             "lastName": "Park",
             "department": "President's Office",
@@ -3227,15 +3236,6 @@
             "lastName": "English",
             "department": "Athletics Administration",
             "title": "Assistant Women's Basketball Coach & Recruitment Coordinator",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Anna",
-            "lastName": "Darby",
-            "department": "Records",
-            "title": "Records Systems Specialist ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -3806,15 +3806,7 @@
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
         },
-        {
-            "firstName": "Amy",
-            "lastName": "Roemelen",
-            "department": "Records",
-            "title": "Assistant Registrar ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
+        
         {
             "firstName": "William",
             "lastName": "Boyd",
