@@ -1,3 +1,4 @@
+
 {
     "faculty": [{
             "firstName": "Wayne",
@@ -12,7 +13,7 @@
             "firstName": "Donald",
             "lastName": "Patterson",
             "department": "Computer Science",
-            "title": "Faculty Member",
+            "title": "Faculty",
             "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_academics/departments/computer_science/images/dpatterson.jpg",
             "duration": 2
@@ -283,7 +284,7 @@
             "lastName": "Anderson",
             "department": "Art",
             "title": "Faculty",
-            "source": "http://www.westmont.edu/_academics/",
+            "source": "http://www.westmont.edu/_academics/departments/art/scott-anderson.html",
             "image": "http://www.westmont.edu/_academics/departments/art/images/AndersonThumbnail.jpg",
             "duration": 8
         },
@@ -292,17 +293,8 @@
             "lastName": "DeBoer",
             "department": "Art",
             "title": "Faculty",
-            "source": "http://www.westmont.edu/_academics/",
+            "source": "http://www.westmont.edu/_academics/departments/art/lisa-deboer.html",
             "image": "http://www.westmont.edu/_academics/departments/art/images/img_0617.jpg",
-            "duration": 8
-        },
-        {
-            "firstName": "Brad",
-            "lastName": "Elliott",
-            "department": "Art",
-            "title": "Faculty",
-            "source": "http://www.westmont.edu/_academics/",
-            "image": "http://www.westmont.edu/_academics/departments/art/images/brad_elliott_web.jpg",
             "duration": 8
         },
         {
@@ -310,17 +302,8 @@
             "lastName": "Huff",
             "department": "Art",
             "title": "Faculty",
-            "source": "http://www.westmont.edu/_academics/",
+            "source": "http://www.westmont.edu/_academics/departments/art/Nathan-Huff.html",
             "image": "http://www.westmont.edu/_academics/departments/art/images/HuffPicure.JPG",
-            "duration": 8
-        },
-        {
-            "firstName": "Judy",
-            "lastName": "Larson",
-            "department": "Art",
-            "title": "Faculty",
-            "source": "http://www.westmont.edu/_academics/",
-            "image": "http://www.westmont.edu/_academics/departments/art/images/img_0958.jpg",
             "duration": 8
         },
         {
@@ -328,8 +311,80 @@
             "lastName": "Stirling",
             "department": "Art",
             "title": "Faculty",
-            "source": "http://www.westmont.edu/_academics/",
+            "source": "http://www.westmont.edu/_academics/departments/art/Meagan-Stirling.html",
             "image": "http://www.westmont.edu/_academics/departments/art/images/AD6V13821.JPG",
+            "duration": 8
+        },
+        {
+            "firstName": "Ryan",
+            "lastName": "Ethington",
+            "department": "Art",
+            "title": "Instructor Of Art, Faculty",
+            "source": "https://www.linkedin.com/in/ryan-ethington-a5632811/",
+            "image": "https://media.licdn.com/media/p/8/005/09c/106/0b6efa8.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Patrick",
+            "lastName": "Gilbert",
+            "department": "Art",
+            "title": "Instructor Of Art, Faculty",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Chris",
+            "lastName": "Rupp",
+            "department": "Art",
+            "title": "Collections Managers & Instructor Of Art, Faculty, Staff",
+            "source": "http://www.westmont.edu/_academics/departments/art/christopher-rupp.html",
+            "image": "http://www.westmont.edu/_academics/departments/art/images/RuppChris.JPG",
+            "duration": 0
+        },
+        {
+            "firstName": "Marie",
+            "lastName": "Schoeff",
+            "department": "Art",
+            "title": "Instructor Of Art, Faculty",
+            "source": "http://www.westmont.edu/_academics/departments/art/MarieSchoeff.html",
+            "image": "http://www.westmont.edu/_academics/departments/art/images/Schoeff_pic.JPG",
+            "duration": 0
+        },
+        {
+            "firstName": "Cory",
+            "lastName": "Steffen",
+            "department": "Art",
+            "title": "Instructor Of Art, Faculty",
+            "source": "http://www.westmont.edu/_academics/departments/art/",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Patricia",
+            "lastName": "Noormand",
+            "department": "Art",
+            "title": "Part-Time Art Department Secretary, Staff",
+            "source": "http://www.westmont.edu/_academics/departments/art/PatriciaNoormand_000.html",
+            "image": "http://www.westmont.edu/_academics/departments/art/images/WMG_4559_000.JPG",
+            "duration": 0
+        },
+        {
+            "firstName": "Brad",
+            "lastName": "Elliott",
+            "department": "Art",
+            "title": "Instructor of Photography, Faculty",
+            "source": "http://www.westmont.edu/_academics/departments/art/brad-elliott.html",
+            "image": "http://www.westmont.edu/_academics/departments/art/images/brad_elliott_web.jpg",
+            "duration": 8
+        },
+        {
+            "firstName": "Judy",
+            "lastName": "Larson",
+            "department": "Art",
+            "title": "Director of Westmont Museum of Art, Faculty, Staff",
+            "source": "http://www.westmont.edu/_academics/departments/art/JudyLLarson.html",
+            "image": "http://www.westmont.edu/_academics/departments/art/images/img_0958.jpg",
             "duration": 8
         },
         {
@@ -1188,15 +1243,6 @@
             "duration": 0
         },
         {
-            "firstName": "Zak",
-            "lastName": "Erving",
-            "department": "Art",
-            "title": "Instructor Of Art ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Aleks",
             "lastName": "Vertsekha",
             "department": "Phy Plant--trades",
@@ -1647,15 +1693,6 @@
             "duration": 0
         },
         {
-            "firstName": "Marie",
-            "lastName": "Schoeff",
-            "department": "Art",
-            "title": "Instructor Of Art ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Jesse",
             "lastName": "Wheeler",
             "department": "Kinesiology",
@@ -2007,15 +2044,6 @@
             "duration": 0
         },
         {
-            "firstName": "Chris",
-            "lastName": "Rupp",
-            "department": "Art",
-            "title": "Collections Managers & Instructor Of Art ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Jose",
             "lastName": "Velazquez",
             "department": "Phy Plant--grounds",
@@ -2331,15 +2359,6 @@
             "duration": 0
         },
         {
-            "firstName": "Cory",
-            "lastName": "Steffen",
-            "department": "Art",
-            "title": "Instructor Of Art ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Heather",
             "lastName": "Levin",
             "department": "Music",
@@ -2628,15 +2647,6 @@
             "duration": 0
         },
         {
-            "firstName": "Ryan",
-            "lastName": "Ethington",
-            "department": "Art",
-            "title": "Instructor Of Art ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Jason",
             "lastName": "Cha",
             "department": "Intercultural Programs",
@@ -2704,15 +2714,6 @@
             "lastName": "Rocha",
             "department": "Phy Plant--custodial",
             "title": "Custodian ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Judy",
-            "lastName": "Larson",
-            "department": "Museum Of Art",
-            "title": "Director Of Westmont Ridley Tree Museum ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -2801,9 +2802,9 @@
         {
             "firstName": "Katherine",
             "lastName": "Christensen",
-            "department": "Museum Of Art",
-            "title": "Museum Education Coordinator",
-            "source": "",
+            "department": "Ridley-Tree Museum Of Art",
+            "title": "Museum Education Coordinator, Staff",
+            "source": "http://www.westmont.edu/museum/staff.html",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
         },
@@ -3258,15 +3259,6 @@
             "duration": 0
         },
         {
-            "firstName": "Patricia",
-            "lastName": "Noormand",
-            "department": "Art",
-            "title": "Pt Art Department Secretary ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Luis",
             "lastName": "Lopez",
             "department": "Phy Plant--custodial",
@@ -3392,15 +3384,6 @@
             "duration": 0
         },
         {
-            "firstName": "Nathan",
-            "lastName": "Huff",
-            "department": "Art",
-            "title": "Assistant Professor Of Art ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Joanne",
             "lastName": "Kim",
             "department": "Music",
@@ -3450,15 +3433,6 @@
             "lastName": "Bentley",
             "department": "Financial Aid",
             "title": "Financial Aid Technology Specialist Temp ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Patrick",
-            "lastName": "Gilbert",
-            "department": "Art",
-            "title": "Instructor Of Art ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -4410,3 +4384,4 @@
         }
     ]
 }	
+
