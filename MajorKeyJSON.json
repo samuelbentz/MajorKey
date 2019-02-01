@@ -1,14 +1,5 @@
 {
     "faculty": [{
-            "firstName": "Wayne",
-            "lastName": "Iba",
-            "department": "Computer Science",
-            "title": "Faculty",
-            "source": "http://www.westmont.edu/_academics/",
-            "image": "http://www.westmont.edu/_academics/departments/computer_science/images/wayne-iba.jpg",
-            "duration": 20
-        },
-        {
             "firstName": "Donald",
             "lastName": "Patterson",
             "department": "Computer Science",
@@ -1431,15 +1422,6 @@
             "duration": 0
         },
         {
-            "firstName": "Kati",
-            "lastName": "Buehler",
-            "department": "Gift Planning",
-            "title": "Senior Director Of Gift Planning ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Doug",
             "lastName": "Jones",
             "department": "Finance",
@@ -1534,15 +1516,6 @@
             "lastName": "Sloan",
             "department": "Physical Plant--admin",
             "title": "Manager Of Office Operations, Automotive AndTransportation ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Alex",
-            "lastName": "Nizet",
-            "department": "Major Gifts",
-            "title": "Senior Development Director ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -1651,15 +1624,6 @@
             "lastName": "Larson",
             "department": "Business Office",
             "title": "Controller ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Annette",
-            "lastName": "Richards",
-            "department": "Major Gifts",
-            "title": "Regional Director Of Development ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -1881,15 +1845,6 @@
             "duration": 0
         },
         {
-            "firstName": "Mona",
-            "lastName": "Motte",
-            "department": "Gift Planning",
-            "title": "Director Of Gift Planning ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "John",
             "lastName": "Draper",
             "department": "Risk Management",
@@ -2016,15 +1971,6 @@
             "duration": 0
         },
         {
-            "firstName": "Neil",
-            "lastName": "Di Maggio",
-            "department": "Research",
-            "title": "Research & Prospect Management ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Christen",
             "lastName": "Foell",
             "department": "Institute For The Liberal Arts",
@@ -2124,15 +2070,6 @@
             "duration": 0
         },
         {
-            "firstName": "Zak",
-            "lastName": "Landrum",
-            "department": "Advancement Services",
-            "title": "Senior Director Of Advancement Services ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Javier",
             "lastName": "Guzman",
             "department": "Phy Plant--trades",
@@ -2187,12 +2124,147 @@
             "duration": 0
         },
         {
-            "firstName": "Jeff",
-            "lastName": "Sieck",
-            "department": "Advancement Services",
-            "title": "Advancement Services Specialist ",
+            "firstName": "Steve",
+            "lastName": "Baker",
+            "department": "Office of College Advancement",
+            "title": "Associate VP For Advancement",
+            "source": "",
+            "image": "https://www.westmont.edu/sites/default/files/styles/basic_page/public/Baker%2C%20Steve_0.JPG",
+            "duration": 0
+        },
+        {
+            "firstName": "Alex",
+            "lastName": "Nizet",
+            "department": "Office of College Advancement",
+            "title": "Senior Director of Development ",
+            "source": "",
+            "image": "https://www.westmont.edu/sites/default/files/styles/basic_page/public/Nizet%2C%20Alex_1.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Annette",
+            "lastName": "Richards",
+            "department": "Office of College Advancement",
+            "title": "Regional Director Of Development, SoCal ",
+            "source": "",
+            "image": "https://www.westmont.edu/sites/default/files/styles/basic_page/public/Richard%2C%20Annette.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Janet",
+            "lastName": "Sawlaw",
+            "department": "Office of College Advancement",
+            "title": "College Advancement Assistant",
+            "source": "",
+            "image": "",
+            "duration": 0
+        },
+        {
+            "firstName": "Kati",
+            "lastName": "Buehler",
+            "department": "Office of College Advancement",
+            "title": "Senior Director Of Gift Planning ",
+            "source": "",
+            "image": "https://www.westmont.edu/sites/default/files/styles/basic_page/public/Buehler%2C%20Kati.JPG",
+            "duration": 0
+        },
+        {
+            "firstName": "Mona",
+            "lastName": "Motte-Wilds",
+            "department": "Office of College Advancement",
+            "title": "Director Of Gift Planning ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Angela",
+            "lastName": "Lowe",
+            "department": "Office of College Advancement",
+            "title": "Gift Planning Assistant",
+            "source": "",
+            "image": "https://www.westmont.edu/sites/default/files/styles/basic_page/public/Angela%20Lowe.JPG",
+            "duration": 0
+        },
+        {
+            "firstName": "Patrick",
+            "lastName": "Morrow",
+            "department": "Office of College Advancement",
+            "title": "Senior Director of Annual Giving",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Tawny",
+            "lastName": "Klipper",
+            "department": "Office of College Advancement",
+            "title": "Assistant Director of Annual Giving",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Susie",
+            "lastName": "Willett",
+            "department": "Office of College Advancement",
+            "title": "Director Of Donor Relations ",
+            "source": "",
+            "image": "https://www.westmont.edu/sites/default/files/styles/basic_page/public/Willett%2C%20Susie_15A.JPG",
+            "duration": 0
+        },
+        {
+            "firstName": "Zak",
+            "lastName": "Landrum",
+            "department": "Office of College Advancement",
+            "title": "Senior Director Of Advancement Services ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Neil",
+            "lastName": "Di Maggio",
+            "department": "Office of College Advancement",
+            "title": "Director of Research",
+            "source": "",
+            "image": "https://www.westmont.edu/sites/default/files/styles/basic_page/public/Di%20Maggio%2C%20Neil.jpg",
+            "duration": 0
+        },
+        {
+            "firstName": "Julie",
+            "lastName": "Rubio",
+            "department": "Office of College Advancement",
+            "title": "Advancement Services Assistant",
+            "source": "",
+            "image": "https://www.westmont.edu/sites/default/files/styles/basic_page/public/Rubio%2C%20Julie_15.JPG",
+            "duration": 0
+        },
+        {
+            "firstName": "Kim",
+            "lastName": "Shifley",
+            "department": "Office of College Advancement",
+            "title": "Senior Gift Processing Specialist",
+            "source": "",
+            "image": "https://www.westmont.edu/sites/default/files/styles/basic_page/public/Shifley%2C%20Kim.JPG",
+            "duration": 0
+        },
+        {
+            "firstName": "Jeff",
+            "lastName": "Sieck",
+            "department": "Office of College Advancement",
+            "title": "Advancement Services Specialist",
+            "source": "",
+            "image": "https://www.westmont.edu/sites/default/files/styles/basic_page/public/Sieck%2C%20Jeff.JPG",
+            "duration": 0
+        },
+        {
+            "firstName": "Mary Pat",
+            "lastName": "Whitney",
+            "department": "Office of College Advancement",
+            "title": "Director of Public and College Advancement Events",
+            "source": "",
+            "image": "https://www.westmont.edu/sites/default/files/styles/basic_page/public/Whitney%2C%20Mary%20Pat_15.JPG",
             "duration": 0
         },
         {
@@ -2407,15 +2479,6 @@
             "lastName": "Murray",
             "department": "Physical Plant",
             "title": "Office Assistant - Physical Plant",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Julie",
-            "lastName": "Rubio",
-            "department": "Advancement Services",
-            "title": "Advancement Services ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -3159,15 +3222,6 @@
             "duration": 0
         },
         {
-            "firstName": "Susie",
-            "lastName": "Willett",
-            "department": "Donor Relations",
-            "title": "Director Of Donor Relations ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Beth",
             "lastName": "Vidmar",
             "department": "Athletic Trainer",
@@ -3347,15 +3401,6 @@
             "duration": 0
         },
         {
-            "firstName": "Angela",
-            "lastName": "Lowe",
-            "department": "Office Of Student Life",
-            "title": "Part Time Student Life Assistant ",
-            "source": "http://www.westmont.edu/_student_life/",
-            "image": "http://www.westmont.edu/_student_life/images/AngelaLowe.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Wilton",
             "lastName": "Quintero",
             "department": "Physical Plant",
@@ -3495,15 +3540,6 @@
             "lastName": "Okahana",
             "department": "Theatre Arts",
             "title": "Visiting Artist ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Mary Pat",
-            "lastName": "Whitney",
-            "department": "Advancement Services",
-            "title": "Advancement Special Events Manager ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
@@ -3695,15 +3731,6 @@
             "title": "Advancement Assistant ",
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
-            "firstName": "Kim",
-            "lastName": "Shifley",
-            "department": "Alumni And Parent Relations",
-            "title": "Alumni & Parent Relations/annual Giving Assistant ",
-            "source": "http://www.westmont.edu/alumni/contact-info.html",
-            "image": "http://www.westmont.edu/alumni/images/D1X_6176.JPG",
             "duration": 0
         },
         {
@@ -4348,5 +4375,6 @@
         }
     ]
 }	
+
 
 
