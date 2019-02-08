@@ -4381,6 +4381,15 @@
             "source": "",
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
+        },
+        {
+            "firstName": "Kenny",
+            "lastName": "Chism",
+            "department": "Physical Plant",
+            "title": "Sustainability Coordinator, Staff",
+            "source": "",
+            "image": "https://raw.githubusercontent.com/samuelbentz/MajorKey/master/KennyChismPortrait.jpg",
+            "duration": 0
         }
     ]
 }	
