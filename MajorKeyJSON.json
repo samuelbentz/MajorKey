@@ -1611,15 +1611,6 @@
             "duration": 0
         },
         {
-            "firstName": "Kim",
-            "lastName": "Notehelfer",
-            "department": "Off Campus Programs",
-            "title": "Assistant - Office Of Global Education ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Paul",
             "lastName": "Larson",
             "department": "Business Office",
@@ -2520,12 +2511,12 @@
             "duration": 0
         },
         {
-            "firstName": "Barb",
-            "lastName": "Pointer",
+            "firstName": "Kim",
+            "lastName": "Notehelfer",
             "department": "Off Campus Programs",
             "title": "Assistant Director Of Global Education ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "source": "https://www.westmont.edu/_offices/provost/provost-report/archive/may17/",
+            "image": "https://www.westmont.edu/_offices/provost/provost-report/images/Kimn.jpg",
             "duration": 0
         },
         {
