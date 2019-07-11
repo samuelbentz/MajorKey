@@ -18,6 +18,15 @@
             "duration": 21
         },
         {
+            "firstName": "Anna",
+            "lastName": "Aboud",
+            "department": "Math",
+            "title": "Faculty",
+            "source": "https://www.westmont.edu/provost-report-march-19",
+            "image": "https://www.westmont.edu/sites/default/files/styles/basic_page/public/Anna-Aboud-Headshot-alt_2.gif",
+            "duration": 21
+        },
+        {
             "firstName": "Patti",
             "lastName": "Hunter",
             "department": "Math and Provost",
@@ -30,7 +39,7 @@
             "firstName": "Ray",
             "lastName": "Rosentrater",
             "department": "Math",
-            "title": "Faculty",
+            "title": "Faculty Emeritus",
             "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_academics/departments/mathematics/images/ray-rosentrater.jpg",
             "duration": 24
@@ -3963,8 +3972,8 @@
             "firstName": "Angela",
             "lastName": "D'Amour",
             "department": "Office Of Campus Life",
-            "title": "Director Of Campus Life, Staff",
-            "source": "http://www.westmont.edu/_offices/campuslife/MeettheStaff.html",
+            "title": "Dean Of Student Engagement, Staff",
+            "source": "https://www.westmont.edu/campus-life-office",
             "image": "http://www.westmont.edu/_offices/campuslife/images/square.jpg",
             "duration": 0
         },
@@ -3972,36 +3981,27 @@
             "firstName": "Alexander",
             "lastName": "Cameron",
             "department": "Office Of Campus Life",
-            "title": "Assistant Director Of Campus Life, Staff",
-            "source": "http://www.westmont.edu/_offices/campuslife/MeettheStaff.html",
-            "image": "http://www.westmont.edu/conferences/images/ScreenShot2016-05-11at3.17.10PM_000.png",
-            "duration": 0
-        },
-        {
-            "firstName": "Brad",
-            "lastName": "Robertson",
-            "department": "Office Of Campus Life",
-            "title": "Interim Assistant Director Of Campus Life , Staff",
-            "source": "http://www.westmont.edu/_offices/campuslife/MeettheStaff.html",
-            "image": "http://www.westmont.edu/_offices/campuslife/images/BradRobertson_000.JPG",
+            "title": "Associate Director Of Campus Life, Staff",
+            "source": "https://www.westmont.edu/campus-life-office",
+            "image": "https://www.westmont.edu//sites/default/files/styles/1_1_320w/public/Alex%20Cameron.JPG",
             "duration": 0
         },
         {
             "firstName": "Rebecca",
             "lastName": "Boa",
             "department": "Office Of Campus Life",
-            "title": "Assistant Director Of Campus Life, Staff",
-            "source": "http://www.westmont.edu/_offices/campuslife/MeettheStaff.html",
+            "title": "Assistant Director Of Campus Life for Ministry and Outreach, Staff",
+            "source": "https://www.westmont.edu/campus-life-office",
             "image": "http://www.westmont.edu/_offices/campuslife/images/D1X_9055_000.JPG",
             "duration": 0
         },
         {
-            "firstName": "Grace",
-            "lastName": "Spadoro",
+            "firstName": "Kasey",
+            "lastName": "Miller",
             "department": "Office of Campus Life",
             "title": "Campus Life Assistant, Staff",
-            "source": "http://www.westmont.edu/_offices/campuslife/MeettheStaff.html",
-            "image": "http://www.westmont.edu/_offices/campuslife/images/Grace2.0.JPG",
+            "source": "https://www.westmont.edu/campus-life-office",
+            "image": "https://www.westmont.edu//sites/default/files/styles/1_1_320w/public/Miller%2C%20Kasey_18_0.JPG",
             "duration": 0
         },
         {
@@ -4384,6 +4384,7 @@
         }
     ]
 }	
+
 
 
 
