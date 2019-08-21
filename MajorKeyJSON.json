@@ -1,5 +1,15 @@
 {
-    "faculty": [{
+    "faculty": [
+        {
+            "firstName": "Leyva",
+            "lastName": "Susan",
+            "department": "Math/CS & Physics",
+            "title": "Math/CS & Physics Administrative Assistant, Staff",
+            "source": "",
+            "image": "https://raw.githubusercontent.com/samuelbentz/MajorKey/master/LeyvaSusan.png",",
+            "duration": 0
+        },
+        {
             "firstName": "Donald",
             "lastName": "Patterson",
             "department": "Computer Science",
@@ -57,7 +67,7 @@
             "firstName": "Jonathan",
             "lastName": "Leech",
             "department": "Math",
-            "title": "Faculty",
+            "title": "Faculty Emeritus",
             "source": "http://www.westmont.edu/_academics/",
             "image": "http://www.westmont.edu/_academics/departments/mathematics/images/jonathan-leech.jpg",
             "duration": 11
