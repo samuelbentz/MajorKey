@@ -1495,15 +1495,6 @@
             "duration": 0
         },
         {
-            "firstName": "Mariah",
-            "lastName": "Velasquez",
-            "department": "Provost",
-            "title": "Program Coordinator Dwc ",
-            "source": "",
-            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
-            "duration": 0
-        },
-        {
             "firstName": "Domingo",
             "lastName": "Solorzano",
             "department": "Phy Plant--grounds",
@@ -3285,10 +3276,19 @@
             "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
             "duration": 0
         },
+        {
+            "firstName": "Mariah",
+            "lastName": "Velásquez",
+            "department": "Provost, Staff",
+            "title": "Assoiciate Dir Of Martin Institute For Christianity & Culture & Dallas ",
+            "source": "",
+            "image": "http://blogs.westmont.edu/wp-content/uploads/2014/05/WST_FORMAL_RGB.jpg",
+            "duration": 0
+        },
          {
             "firstName": "McKenna",
             "lastName": "Donner",
-            "department": "Provost",
+            "department": "Provost, Staff",
             "title": "Assistant Martin Institute For Christianity & Culture & Dallas ",
             "source": "email",
             "image": "https://raw.githubusercontent.com/samuelbentz/MajorKey/master/MDonner.jpg",
